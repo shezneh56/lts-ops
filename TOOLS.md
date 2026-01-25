@@ -45,11 +45,17 @@ See `/root/clawd/docs/auto-refresh-flow.md` for the complete workflow when varia
 Can use `src/campaign_engine/deliverability/emailbison_client.py` for programmatic access to EmailBison API.
 
 **Workspaces:**
-- LTS - Leads That Show
-- Lawtech - LawTech
-- CGS - CGS Team
-- Paralect - Paralect
 - C2 - C2 Experience
+- CGS - CGS Team
+- Gestell - Gestell
+- Hygraph - Hygraph
+- Jampot - Jam Pot
+- Lawtech - LawTech
+- LTS - Leads That Show
+- Legalsoft - LegalSoft
+- Medvirtual - Med Virtual
+- Paralect - Paralect
+- Wow24-7 - Wow 24-7
 
 ---
 

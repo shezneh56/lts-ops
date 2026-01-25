@@ -83,6 +83,8 @@ Will monitor performance over next 48hrs.
 ## API Keys
 Location: `config/workspace_keys.json`
 
+See `/root/clawd/docs/emailbison-workspaces.md` for the complete list of all 11 configured workspaces.
+
 ## When NOT to Auto-Refresh
 - Step has <50 sends (insufficient data)
 - Drop is <50% (normal variance)
