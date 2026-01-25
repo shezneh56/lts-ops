@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Scott Harvey",
+    "email": "sharvey@fireblocks.com",
+    "eventName": "Leads That Show - Discovery Call (extended)",
+    "startTime": "2026-01-30T15:30:00.000000Z",
+    "status": "active",
+    "createdAt": "2026-01-13T17:36:19.609633Z",
+    "rescheduleUrl": "https://calendly.com/reschedulings/1dc922a0-1b9f-464f-b6e2-e333c7608074",
+    "cancelUrl": "https://calendly.com/cancellations/1dc922a0-1b9f-464f-b6e2-e333c7608074"
+  },
+  {
+    "name": "Barry Rothstein",
+    "email": "brothstein@naicapital.com",
+    "eventName": "Leads That Show - Discovery Call",
+    "startTime": "2026-01-29T17:30:00.000000Z",
+    "status": "active",
+    "createdAt": "2026-01-23T22:33:05.273270Z",
+    "rescheduleUrl": "https://calendly.com/reschedulings/745c58ca-e906-4f0e-8a9b-6cfd19752c32",
+    "cancelUrl": "https://calendly.com/cancellations/745c58ca-e906-4f0e-8a9b-6cfd19752c32"
+  },
+  {
+    "name": "Chan Lee",
+    "email": "chan.lee@asuene.com",
+    "eventName": "Leads That Show - Discovery Call",
+    "startTime": "2026-01-29T16:45:00.000000Z",
+    "status": "active",
+    "createdAt": "2026-01-23T20:28:17.776392Z",
+    "rescheduleUrl": "https://calendly.com/reschedulings/bce8ed1c-bdd0-4a9a-b2b7-d6dfc473b8bf",
+    "cancelUrl": "https://calendly.com/cancellations/bce8ed1c-bdd0-4a9a-b2b7-d6dfc473b8bf"
+  },
+  {
+    "name": "Dave Fox",
+    "email": "dfox@focusgts.com",
+    "eventName": "Leads That Show - Discovery Call",
+    "startTime": "2026-01-29T15:30:00.000000Z",
+    "status": "active",
+    "createdAt": "2026-01-23T16:25:19.276024Z",
+    "rescheduleUrl": "https://calendly.com/reschedulings/ef74e061-aaa4-434f-823d-247885265263",
+    "cancelUrl": "https://calendly.com/cancellations/ef74e061-aaa4-434f-823d-247885265263"
+  },
+  {
+    "name": "Tino Sida",
+    "email": "tino.sida@futureenergy.com",
+    "eventName": "Leads That Show - Client Call",
+    "startTime": "2026-01-29T15:00:00.000000Z",
+    "status": "active",
+    "createdAt": "2026-01-23T14:24:50.186029Z",
+    "rescheduleUrl": "https://calendly.com/reschedulings/7325e968-76d8-4d00-a693-b0887895c1f4",
+    "cancelUrl": "https://calendly.com/cancellations/7325e968-76d8-4d00-a693-b0887895c1f4"
+  },
+  {
+    "name": "Graham Clark",
+    "email": "gvclark@mcorp.cx",
+    "eventName": "Leads That Show - Discovery Call (extended)",
+    "startTime": "2026-01-29T14:00:00.000000Z",
+    "status": "active",
+    "createdAt": "2026-01-20T19:47:59.109705Z",
+    "rescheduleUrl": "https://calendly.com/reschedulings/6d243ade-5fec-4172-9aad-ca0e1ece380e",
+    "cancelUrl": "https://calendly.com/cancellations/6d243ade-5fec-4172-9aad-ca0e1ece380e"
+  },
+  {
+    "name": "Jason Tunley",
+    "email": "jason.tunley@dunhamswashrooms.com",
+    "eventName": "Leads That Show - Discovery Call (LinkedIn)",
+    "startTime": "2026-01-29T12:00:00.000000Z",
+    "status": "active",
+    "createdAt": "2026-01-23T14:41:16.604163Z",
+    "rescheduleUrl": "https://calendly.com/reschedulings/179e52d9-372c-4cd5-92cf-ee0ba95a6363",
+    "cancelUrl": "https://calendly.com/cancellations/179e52d9-372c-4cd5-92cf-ee0ba95a6363"
+  },
+  {
+    "name": "Francois Labuschagne",
+    "email": "francois.labuschagne@dqs.de",
+    "eventName": "Leads That Show - Client Call",
+    "startTime": "2026-01-28T11:00:00.000000Z",
+    "status": "active",
+    "createdAt": "2026-01-22T13:25:10.170181Z",
+    "rescheduleUrl": "https://calendly.com/reschedulings/c5b6f092-9c3e-41b6-840a-cc7ed7aceb27",
+    "cancelUrl": "https://calendly.com/cancellations/c5b6f092-9c3e-41b6-840a-cc7ed7aceb27"
+  },
+  {
+    "name": "Adam Brown",
+    "email": "adam@internationaljet.com",
+    "eventName": "Leads That Show - Discovery Call",
+    "startTime": "2026-01-27T18:00:00.000000Z",
+    "status": "active",
+    "createdAt": "2026-01-22T16:40:14.562830Z",
+    "rescheduleUrl": "https://calendly.com/reschedulings/f80c7634-2b61-40f6-bbf6-32299398df09",
+    "cancelUrl": "https://calendly.com/cancellations/f80c7634-2b61-40f6-bbf6-32299398df09"
+  },
+  {
+    "name": "Jordan Sanders",
+    "email": "jordan.sanders@bundleskills.com",
+    "eventName": "Leads That Show - Discovery Call",
+    "startTime": "2026-01-27T17:00:00.000000Z",
+    "status": "active",
+    "createdAt": "2026-01-21T19:20:24.661778Z",
+    "rescheduleUrl": "https://calendly.com/reschedulings/120a666e-2c6a-4959-8294-8373be9c6bba",
+    "cancelUrl": "https://calendly.com/cancellations/120a666e-2c6a-4959-8294-8373be9c6bba"
+  }
+]

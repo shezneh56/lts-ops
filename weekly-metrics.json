@@ -1,0 +1,31 @@
+{
+  "week": "1/19/2026 - 1/25/2026",
+  "callsBooked": 25,
+  "callsDue": 25,
+  "callsShowed": 17,
+  "callsNoShow": 8,
+  "showRate": 68,
+  "closes": 0,
+  "details": {
+    "showed": [
+      "Tallon Rood",
+      "Fareed Aziz",
+      "Theodor Larsen",
+      "Vlad Lenski",
+      "Ali Raza Wajid",
+      "Francois Labuschagne",
+      "Isaac Feiner",
+      "Robert Bess",
+      "Johnny Mago",
+      "Russ Heddleston",
+      "Tino Sida",
+      "Emmanuel Massenez",
+      "Rupert Maconick",
+      "Tolga Demirsar",
+      "Darren Costello",
+      "Jonathan Madden",
+      "Kalyan A"
+    ],
+    "closedDeals": []
+  }
+}

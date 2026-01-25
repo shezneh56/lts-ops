@@ -1,0 +1,264 @@
+{
+  "bookings": [
+    {
+      "eventUri": "https://api.calendly.com/scheduled_events/6233b521-16e2-4d90-86e3-2e0d9a362eb5",
+      "name": "Scott Harvey",
+      "email": "sharvey@fireblocks.com",
+      "startTime": "2026-01-30T15:30:00.000000Z",
+      "timezone": "America/Los_Angeles",
+      "bookedAt": "2026-01-13T17:36:19.609633Z",
+      "status": "active",
+      "voiceNoteSent": false,
+      "reminders": [
+        {
+          "time": "2026-01-25T09:36:59.376Z",
+          "type": "initial"
+        }
+      ]
+    },
+    {
+      "eventUri": "https://api.calendly.com/scheduled_events/e15d0ccf-b058-4fa7-acbd-590c711f4214",
+      "name": "Barry Rothstein",
+      "email": "brothstein@naicapital.com",
+      "startTime": "2026-01-29T17:30:00.000000Z",
+      "timezone": "America/New_York",
+      "bookedAt": "2026-01-23T22:33:05.273270Z",
+      "status": "active",
+      "voiceNoteSent": false,
+      "reminders": [
+        {
+          "time": "2026-01-25T09:36:59.376Z",
+          "type": "initial"
+        }
+      ]
+    },
+    {
+      "eventUri": "https://api.calendly.com/scheduled_events/2a41f24e-f624-4f34-a2cd-d2ab602fbe70",
+      "name": "Chan Lee",
+      "email": "chan.lee@asuene.com",
+      "startTime": "2026-01-29T16:45:00.000000Z",
+      "timezone": "America/New_York",
+      "bookedAt": "2026-01-23T20:28:17.776392Z",
+      "status": "active",
+      "voiceNoteSent": false,
+      "reminders": [
+        {
+          "time": "2026-01-25T09:36:59.376Z",
+          "type": "initial"
+        }
+      ]
+    },
+    {
+      "eventUri": "https://api.calendly.com/scheduled_events/4f6bea80-94b2-4be0-9590-e7f83d23f802",
+      "name": "Dave Fox",
+      "email": "dfox@focusgts.com",
+      "startTime": "2026-01-29T15:30:00.000000Z",
+      "timezone": "America/New_York",
+      "bookedAt": "2026-01-23T16:25:19.276024Z",
+      "status": "active",
+      "voiceNoteSent": false,
+      "reminders": [
+        {
+          "time": "2026-01-25T09:36:59.376Z",
+          "type": "initial"
+        }
+      ]
+    },
+    {
+      "eventUri": "https://api.calendly.com/scheduled_events/c6803beb-d0e1-46b8-b8a3-d043e43220f3",
+      "name": "Tino Sida",
+      "email": "tino.sida@futureenergy.com",
+      "startTime": "2026-01-29T15:00:00.000000Z",
+      "timezone": "America/New_York",
+      "bookedAt": "2026-01-23T14:24:50.186029Z",
+      "status": "active",
+      "voiceNoteSent": false,
+      "reminders": [
+        {
+          "time": "2026-01-25T09:36:59.376Z",
+          "type": "initial"
+        }
+      ]
+    },
+    {
+      "eventUri": "https://api.calendly.com/scheduled_events/bf80a382-0c40-4486-9beb-4f43fac98094",
+      "name": "Graham Clark",
+      "email": "gvclark@mcorp.cx",
+      "startTime": "2026-01-29T14:00:00.000000Z",
+      "timezone": "America/New_York",
+      "bookedAt": "2026-01-20T19:47:59.109705Z",
+      "status": "active",
+      "voiceNoteSent": false,
+      "reminders": [
+        {
+          "time": "2026-01-25T09:36:59.376Z",
+          "type": "initial"
+        }
+      ]
+    },
+    {
+      "eventUri": "https://api.calendly.com/scheduled_events/2e730ff8-53b8-456d-b650-ad8f4477ba9e",
+      "name": "Jason Tunley",
+      "email": "jason.tunley@dunhamswashrooms.com",
+      "startTime": "2026-01-29T12:00:00.000000Z",
+      "timezone": "Europe/London",
+      "bookedAt": "2026-01-23T14:41:16.604163Z",
+      "status": "active",
+      "voiceNoteSent": false,
+      "reminders": [
+        {
+          "time": "2026-01-25T09:36:59.376Z",
+          "type": "initial"
+        },
+        {
+          "time": "2026-01-25T09:36:59.376Z",
+          "type": "9am-prospect"
+        }
+      ]
+    },
+    {
+      "eventUri": "https://api.calendly.com/scheduled_events/d5f0e662-b069-4373-9d01-c3fc97a12308",
+      "name": "Francois Labuschagne",
+      "email": "francois.labuschagne@dqs.de",
+      "startTime": "2026-01-28T11:00:00.000000Z",
+      "timezone": "Europe/Berlin",
+      "bookedAt": "2026-01-22T13:25:10.170181Z",
+      "status": "active",
+      "voiceNoteSent": false,
+      "reminders": [
+        {
+          "time": "2026-01-25T09:36:59.376Z",
+          "type": "initial"
+        }
+      ]
+    },
+    {
+      "eventUri": "https://api.calendly.com/scheduled_events/166da6c4-bc48-4a73-8f89-4bc0dc80bcef",
+      "name": "Adam Brown",
+      "email": "adam@internationaljet.com",
+      "startTime": "2026-01-27T18:00:00.000000Z",
+      "timezone": "America/Denver",
+      "bookedAt": "2026-01-22T16:40:14.562830Z",
+      "status": "active",
+      "voiceNoteSent": false,
+      "reminders": [
+        {
+          "time": "2026-01-25T09:36:59.376Z",
+          "type": "initial"
+        }
+      ]
+    },
+    {
+      "eventUri": "https://api.calendly.com/scheduled_events/a6e65e83-cd7d-4bca-a048-f186f2693eca",
+      "name": "Jordan Sanders",
+      "email": "jordan.sanders@bundleskills.com",
+      "startTime": "2026-01-27T17:00:00.000000Z",
+      "timezone": "America/Chicago",
+      "bookedAt": "2026-01-21T19:20:24.661778Z",
+      "status": "active",
+      "voiceNoteSent": false,
+      "reminders": [
+        {
+          "time": "2026-01-25T09:36:59.376Z",
+          "type": "initial"
+        }
+      ]
+    },
+    {
+      "eventUri": "https://api.calendly.com/scheduled_events/95c23b7b-bdda-49ba-b6b0-9adf7b0c09cc",
+      "name": "Alejandro Valenzuela",
+      "email": "avalenzuela@uscustombroker.com",
+      "startTime": "2026-01-27T16:00:00.000000Z",
+      "timezone": "America/Chicago",
+      "bookedAt": "2026-01-21T17:01:08.103560Z",
+      "status": "active",
+      "voiceNoteSent": false,
+      "reminders": [
+        {
+          "time": "2026-01-25T09:36:59.376Z",
+          "type": "initial"
+        }
+      ]
+    },
+    {
+      "eventUri": "https://api.calendly.com/scheduled_events/c4c21736-ec5f-480e-8e96-94d0fe54ff61",
+      "name": "Jeff Davis",
+      "email": "jeffdavis@advanceddynamicscorp.com",
+      "startTime": "2026-01-27T15:00:00.000000Z",
+      "timezone": "America/New_York",
+      "bookedAt": "2026-01-20T20:16:01.465062Z",
+      "status": "active",
+      "voiceNoteSent": false,
+      "reminders": [
+        {
+          "time": "2026-01-25T09:36:59.376Z",
+          "type": "initial"
+        }
+      ]
+    },
+    {
+      "eventUri": "https://api.calendly.com/scheduled_events/85bd869a-bc1b-407d-9e86-bb31fe3c10e9",
+      "name": "Kent Harkins",
+      "email": "kent@wavity.com",
+      "startTime": "2026-01-26T18:00:00.000000Z",
+      "timezone": "America/Los_Angeles",
+      "bookedAt": "2026-01-20T16:31:15.118462Z",
+      "status": "active",
+      "voiceNoteSent": false,
+      "reminders": [
+        {
+          "time": "2026-01-25T09:36:59.376Z",
+          "type": "initial"
+        }
+      ]
+    },
+    {
+      "eventUri": "https://api.calendly.com/scheduled_events/e297acfa-7b3f-4e43-962a-d9ac562de3e0",
+      "name": "Bader Obeid",
+      "email": "bader@cmaflooring.com",
+      "startTime": "2026-01-26T15:30:00.000000Z",
+      "timezone": "America/Chicago",
+      "bookedAt": "2026-01-23T18:24:03.204390Z",
+      "status": "active",
+      "voiceNoteSent": false,
+      "reminders": [
+        {
+          "time": "2026-01-25T09:36:59.376Z",
+          "type": "initial"
+        }
+      ]
+    },
+    {
+      "eventUri": "https://api.calendly.com/scheduled_events/4a09d717-3351-4245-b0cd-531cfd95cec2",
+      "name": "Kalyan A",
+      "email": "kalyan@appnerve.com",
+      "startTime": "2026-01-26T14:00:00.000000Z",
+      "timezone": "Europe/Berlin",
+      "bookedAt": "2026-01-19T19:10:41.001048Z",
+      "status": "active",
+      "voiceNoteSent": false,
+      "reminders": [
+        {
+          "time": "2026-01-25T09:36:59.376Z",
+          "type": "initial"
+        }
+      ]
+    },
+    {
+      "eventUri": "https://api.calendly.com/scheduled_events/70076b9f-ccf3-40ed-b965-b7d4c8a13089",
+      "name": "Nilesh Parmar",
+      "email": "nparmar@choicelogistics.com",
+      "startTime": "2026-01-26T13:30:00.000000Z",
+      "timezone": "Europe/Berlin",
+      "bookedAt": "2026-01-18T13:45:59.592958Z",
+      "status": "active",
+      "voiceNoteSent": false,
+      "reminders": [
+        {
+          "time": "2026-01-25T09:36:59.376Z",
+          "type": "initial"
+        }
+      ]
+    }
+  ]
+}
