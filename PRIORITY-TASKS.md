@@ -94,6 +94,16 @@
 - **Current:** Apollo (saturated) → need account-based flow
 - **Action:** TBD - design new approach
 
+### 14. Lead Database - Consolidate Cached Data
+- **Purpose:** Central database of all current cached lead data
+- **Status:** Not started
+- **Action:** 
+  - Identify where cached lead data currently lives
+  - Design database schema (contacts, companies, interactions, etc.)
+  - Import/consolidate all existing data
+  - **Questions:** What format? SQLite? Notion? Airtable? Google Sheets?
+- **Impact:** Single source of truth for lead data, enables better tracking & automation
+
 ---
 
 ## 🔵 FULL FULFILLMENT AUTOMATION (Major Build - 1-2 Weeks)
