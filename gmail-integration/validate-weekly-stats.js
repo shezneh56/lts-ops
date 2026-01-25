@@ -41,8 +41,8 @@ function parseCSV(csv) {
 }
 
 function parseDate(dateStr) {
-  // Handle DD/M/YYYY or DD/MM/YYYY format
-  const parts = dateStr.split('/');
+  // Handle DD/MM/YYYY format (British)
+  const parts = dateStr.trim().split('/');
   if (parts.length === 3) {
     const day = parseInt(parts[0]);
     const month = parseInt(parts[1]) - 1; // JS months are 0-indexed
