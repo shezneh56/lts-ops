@@ -1,166 +1,93 @@
-# PRIORITY TASK LIST
+# Priority Tasks - Monday 2026-01-27
 
-*Updated: 2026-01-25*
-
-## 🔴 CRITICAL (Next 3 Weeks)
-
-### 1. C2 Group Renewal (Mid-Feb)
-- **Revenue at risk:** $12.5k
-- **Status:** Strategic manual work needed
-- **Action:** Focus fulfillment time here
-- **Next steps:** TBD with Liam
-
-### 2. Cash Flow Decision - Sharia
-- **Cost:** $800 due Feb 15 (or ~$200 if cut now)
-- **Savings:** $600 this month
-- **Action needed:** Decide today - cut now or transition plan?
-- **Blocker:** Need to know if campaign setup automation is ready
-
-### 3. ✅ Voice Note Reminder Workflow - DONE
-- **Impact:** Better booking → close rate
-- **Status:** ✅ LIVE (hourly checks)
-- Immediate reminder when booked
-- 11 PM CET reminder
-- 9 AM prospect timezone reminder
-
-### 4. ✅ Weekly Metrics Tracker - DONE
-- **Impact:** Track show rate, call volume, performance
-- **Status:** ✅ LIVE (Friday 9 PM CET reports)
-- **Current week:** 27 booked, 37% show rate (needs improvement)
+**Last updated:** 2026-01-25 21:06 UTC
 
 ---
 
-## 🟠 HIGH IMPACT (This Month)
+## 🔴 MORNING BLOCK (Revenue-Critical)
 
-### 4. AI Reply Agent (Replace Mary)
-- **Savings:** $5,160/month
-- **Does:** Email responses, calendar booking back-and-forth
-- **Status:** Not started
-- **Complexity:** Medium-High
-- **Action:** Build email response automation with calendar checking
+### 1. Sales Activity (Do First)
+- [ ] Book sales calls
+- [ ] Text leads
+- [ ] Jack → Warm calling + LinkedIn
 
-### 5. Campaign Setup Automation (Replace Sharia)
-- **Savings:** $800/month
-- **Does:** Lead sourcing, campaign setup via Clay
-- **Status:** Need to link to existing campaign AI agent
-- **Action:** Review current Clay workflow, automate or replace
+**Why first:** Direct revenue. Everything else supports this.
 
-### 6. Fathom Call Summaries → Post-Call Emails
-- **Impact:** Saves 30-60 min/day
-- **Status:** Credentials ready, automation not built
-- **Action:** 
-  - Pull Fathom recordings after calls
-  - Generate summaries
-  - Draft proposal/follow-up emails
-  - Auto-update call tracker with notes
+### 2. C2 - Campaign Improvements
+- [ ] Review/improve LinkedIn campaign (10% acceptance is low)
+- [ ] Find "posted in last 30 days" filter for LinkedIn targeting
+- [ ] New personas from Clay → add to lead list
+- [ ] Create campaigns with multi-threading flow (30-day plan for client)
+- [ ] DMFS & Sitecore campaign tests
+- [ ] Re-do campaigns based on Ben Loki's CCG talk (map companies → personas → touchpoints)
+- [ ] Case studies split by industry
 
-### 7. Call Tracker Auto-Updates
-- **Impact:** No more manual spreadsheet work
-- **Status:** Sheet synced, update logic not built
-- **Action:**
-  - Parse Fathom summaries
-  - Auto-fill: Showed?, Closed?, Call Notes, Follow up date
-  - Flag action items
+### 3. Harrison Inboxes ⏰
+- [ ] Handle inbox issue (flagged as time-sensitive)
 
 ---
 
-## 🟡 IMPORTANT (Next 2 Weeks)
+## 🟡 AFTERNOON BLOCK (Fulfillment & Optimization)
 
-### 8. Link to Finance Agent
-- **Purpose:** Guide cost-cutting decisions with real numbers
-- **Action:** Integrate financial data for overhead optimization
+### 4. Current Client Analysis
+- [ ] Analyse current performance (check spintax usage)
+- [ ] Cold friendly offers / lead magnets for each client
+- [ ] Testing plan for next week
 
-### 9. Link to Campaign Setup AI Agent
-- **Purpose:** End-to-end campaign automation
-- **Action:** Get access to existing agent, integrate with workflow
+### 5. MedVirtual Launch
+- [ ] Test new lead sourcing method
+- [ ] Finalize campaign setup (infrastructure ready, 600 inboxes warmed)
 
-### 10. Review Email Templates (Proposals)
-- **Status:** Current templates working
-- **Action:** Review sent items, extract best-performing templates, optimize
-
-### 11. GoHighLevel CRM Evaluation
-- **Purpose:** Replace manual spreadsheet CRM
-- **Action:** Test if GHL fits the workflow better than building custom
+### 6. LTS - Lead Volume
+- [ ] Pull leads from 200-500 employee range (higher volume)
 
 ---
 
-## 🟢 NICE TO HAVE (Ongoing)
+## 🟢 ADMIN & CLEANUP
 
-### 12. Campaign Performance Deep Dive
-- **Action:** Review other Claude chat context on deliverability/targeting/messaging
-- **Impact:** Fix underperforming client campaigns
+### 7. Client Cleanup
+- [ ] Offboard: Jampot, Gestell, Wow24-7 (not profitable)
 
-### 13. Lead Sourcing Workflow
-- **Current:** Apollo (saturated) → need account-based flow
-- **Action:** TBD - design new approach
+### 8. Team Tasks
+- [ ] Zina: Warm calling flow in GHL + CRM with old leads + track numbers
+- [ ] Mary: Detailed FAQs per client (Claude can help draft)
 
-### 14. Lead Database - Consolidate Cached Data
-- **Purpose:** Central database of all current cached lead data
-- **Status:** Not started
-- **Action:** 
-  - Identify where cached lead data currently lives
-  - Design database schema (contacts, companies, interactions, etc.)
-  - Import/consolidate all existing data
-  - **Questions:** What format? SQLite? Notion? Airtable? Google Sheets?
-- **Impact:** Single source of truth for lead data, enables better tracking & automation
+### 9. Quick Wins
+- [ ] Cancel Calendly/InboxHub calendar thing
+- [ ] Notification system for disconnected inboxes
+
+### 10. ECA (Enterprise)
+- [ ] Test call research automation (script/deck done ✅)
 
 ---
 
-## 🔵 FULL FULFILLMENT AUTOMATION (Major Build - 1-2 Weeks)
+## 📅 DEFER / BATCH LATER
 
-### Lead Sourcing Pipeline
-1. Get target accounts
-2. Enrich people data (LeadMagic API)
-3. Find email addresses
-4. Validate emails
-5. Identify catchers (BounceBan)
-6. Add to shared directory → get local emails
-7. Split/segment by: industry, job role, headcount
-8. **Need:** Scripts for each step
-
-### Copywriting Engine
-1. Initial research
-2. Deep persona research
-3. Create + validate angles
-4. Write copy
-5. Spam check (upgrade current weak one)
-6. Campaign setup
-- **Infrastructure exists** (Liam to link)
-- **Automation potential:** SaaS fulfillment
-
-### Campaign Management
-1. Add to EmailBison
-2. Check + launch campaigns
-3. Reporting: fingerprinting, testing, winners, data usage
-
-### Tools/APIs Needed
-- LeadMagic (have access)
-- QuickCard (have access)
-- BounceBan (need access)
-- Current scripts (Liam to provide)
-
-### Impact
-- **Replaces:** Sharia ($800/mo) + SaaS fulfillment time
-- **Time unlock:** Massive — entire fulfillment off Liam's plate
+- Content: Front-load 2x tweets/day for week (batch on Tuesday?)
+- Testimonial plans for pitch deck
+- £250/week into Solana (automate?)
+- Post-call emails & follow-ups automation
+- CRM implementation
+- Lead database build with Claude
 
 ---
 
-## MY SUGGESTED PRIORITY ORDER (Liam will correct over time)
+## 💡 IDEAS TO EXPLORE
 
-**Week 1 (This Week):**
-1. Voice note reminders (quick win, immediate impact)
-2. Sharia decision + cost analysis with finance agent
-3. Fathom automation (free up daily time NOW)
-4. Call tracker auto-updates (works with Fathom)
+**Campaign Automation SaaS Concept:**
+> If campaign setup is fully automated, can segment data at granular level (VP Sales vs CRO vs CMO = different angles). Could become no-touch SaaS where people sign up and get leads by volume.
 
-**Week 2:**
-5. AI reply agent prototype (start replacing Mary)
-6. Link to campaign AI agent
-7. Review/optimize email templates
+**GMass spam filter testing:** https://www.gmass.co/pricing
 
-**Week 3:**
-8. Campaign setup automation (replace Sharia fully)
-9. C2 Group strategic support
-10. GoHighLevel CRM setup
+---
 
-**Does this order feel right, or should I reshuffle?**
+## 🤖 WHAT I (CLAWD) CAN DO NOW
+
+1. **Mary's FAQs** - Draft detailed FAQs for each client
+2. **C2 campaign angles** - Create multi-threading sequences per persona
+3. **Current client analysis** - Pull performance data from EmailBison
+4. **MedVirtual** - Finalize email copy, ready to launch
+5. **Content** - Draft tweets for the week
+6. **Lead sourcing** - Help with Clay/data workflows
+
+**Want me to start on any of these tonight?**

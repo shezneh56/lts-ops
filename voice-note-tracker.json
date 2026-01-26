@@ -153,6 +153,10 @@
         {
           "time": "2026-01-25T09:36:59.376Z",
           "type": "initial"
+        },
+        {
+          "time": "2026-01-26T08:00:06.119Z",
+          "type": "9am-prospect"
         }
       ]
     },
@@ -289,6 +293,10 @@
         {
           "time": "2026-01-25T09:36:59.376Z",
           "type": "initial"
+        },
+        {
+          "time": "2026-01-26T08:00:06.119Z",
+          "type": "9am-prospect"
         }
       ]
     },
@@ -304,6 +312,42 @@
       "reminders": [
         {
           "time": "2026-01-25T09:36:59.376Z",
+          "type": "initial"
+        },
+        {
+          "time": "2026-01-26T08:00:06.119Z",
+          "type": "9am-prospect"
+        }
+      ]
+    },
+    {
+      "eventUri": "https://api.calendly.com/scheduled_events/faa1f157-65be-4c47-86dd-a8a8ddf4f0d8",
+      "name": "Nilesh Parmar",
+      "email": "nparmar@choicelogistics.com",
+      "startTime": "2026-02-02T14:00:00.000000Z",
+      "timezone": "Europe/Berlin",
+      "bookedAt": "2026-01-26T08:20:29.727554Z",
+      "status": "active",
+      "voiceNoteSent": false,
+      "reminders": [
+        {
+          "time": "2026-01-26T09:00:06.641Z",
+          "type": "initial"
+        }
+      ]
+    },
+    {
+      "eventUri": "https://api.calendly.com/scheduled_events/09260743-32f5-4fa5-842f-c28b963b0e4f",
+      "name": "Maria Matos",
+      "email": "maria.matos@hygraph.com",
+      "startTime": "2026-01-27T11:30:00.000000Z",
+      "timezone": "Europe/Berlin",
+      "bookedAt": "2026-01-26T11:04:55.247601Z",
+      "status": "active",
+      "voiceNoteSent": false,
+      "reminders": [
+        {
+          "time": "2026-01-26T12:00:16.550Z",
           "type": "initial"
         }
       ]
