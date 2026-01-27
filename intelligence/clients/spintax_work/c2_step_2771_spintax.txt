@@ -1,0 +1,11 @@
+{Hi|Hey|Hello} {FIRST_NAME}, {here's|there's} something {most|many} IT leaders suspect but rarely quantify:
+
+{Around|About|Nearly} 80% of your Optimizely features are {sitting unused|going unused|not being used}. {That's not a guess|This isn't speculation|It's not just a hunch}—it's what the data shows across enterprise software.
+
+The result? ROI justification becomes {nearly impossible|really difficult|a challenge}. And the features you're paying for? Your team {doesn't even know they exist|might not know they exist|isn't aware of them}.
+
+We run complimentary adoption audits for Optimizely users—{takes|only takes|runs about} 30 minutes, shows exactly what's being missed.
+
+{What's the biggest capability gap you suspect {COMPANY} has right now?|Curious what features you think {COMPANY} might be missing?|Which capabilities do you think {COMPANY} isn't fully leveraging?}
+
+{SENDER_EMAIL_SIGNATURE}

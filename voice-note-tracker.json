@@ -351,6 +351,166 @@
           "type": "initial"
         }
       ]
+    },
+    {
+      "eventUri": "https://api.calendly.com/scheduled_events/cf6c3bcb-3f3f-41b7-91e7-6c11da075046",
+      "name": "Theodor Larsen",
+      "email": "theodor.larsen@ecosubsea.com",
+      "startTime": "2026-01-27T12:00:00.000000Z",
+      "timezone": "Europe/Berlin",
+      "bookedAt": "2026-01-26T13:00:14.041294Z",
+      "status": "active",
+      "voiceNoteSent": false,
+      "reminders": [
+        {
+          "time": "2026-01-26T14:00:06.902Z",
+          "type": "initial"
+        }
+      ]
+    },
+    {
+      "eventUri": "https://api.calendly.com/scheduled_events/3f149ff0-f857-4aac-bbef-e447e87d7d2b",
+      "name": "Bader Obeid",
+      "email": "bader@cmaflooring.com",
+      "startTime": "2026-01-29T18:15:00.000000Z",
+      "timezone": "America/Chicago",
+      "bookedAt": "2026-01-26T14:43:59.518118Z",
+      "status": "active",
+      "voiceNoteSent": false,
+      "reminders": [
+        {
+          "time": "2026-01-26T15:00:07.726Z",
+          "type": "initial"
+        }
+      ]
+    },
+    {
+      "eventUri": "https://api.calendly.com/scheduled_events/094f39fd-06f5-4492-a67f-6355142ab39c",
+      "name": "Jeff Davis",
+      "email": "jeffdavis@advanceddynamicscorp.com",
+      "startTime": "2026-01-30T16:00:00.000000Z",
+      "timezone": "America/New_York",
+      "bookedAt": "2026-01-26T15:39:36.000566Z",
+      "status": "active",
+      "voiceNoteSent": false,
+      "reminders": [
+        {
+          "time": "2026-01-26T16:00:07.689Z",
+          "type": "initial"
+        }
+      ]
+    },
+    {
+      "eventUri": "https://api.calendly.com/scheduled_events/49cd43dd-006e-4d58-a780-7a13639b5182",
+      "name": "Alanna Johnson",
+      "email": "alannajohnson@kms-technology.com",
+      "startTime": "2026-01-30T14:30:00.000000Z",
+      "timezone": "America/New_York",
+      "bookedAt": "2026-01-26T15:54:31.800842Z",
+      "status": "active",
+      "voiceNoteSent": false,
+      "reminders": [
+        {
+          "time": "2026-01-26T16:00:07.689Z",
+          "type": "initial"
+        }
+      ]
+    },
+    {
+      "eventUri": "https://api.calendly.com/scheduled_events/4e790b18-0f85-44c2-8e4f-9c6fd14c799e",
+      "name": "Lyman Wescott",
+      "email": "lwescott@lyoncredit.com",
+      "startTime": "2026-01-30T17:30:00.000000Z",
+      "timezone": "America/New_York",
+      "bookedAt": "2026-01-26T16:02:32.267443Z",
+      "status": "active",
+      "voiceNoteSent": false,
+      "reminders": [
+        {
+          "time": "2026-01-26T17:00:07.295Z",
+          "type": "initial"
+        }
+      ]
+    },
+    {
+      "eventUri": "https://api.calendly.com/scheduled_events/36f22e4c-336a-440d-bdd9-5cff3c190870",
+      "name": "Eberhard Lucke",
+      "email": "elucke@luckeconsulting.com",
+      "startTime": "2026-01-27T15:00:00.000000Z",
+      "timezone": "America/New_York",
+      "bookedAt": "2026-01-26T16:12:21.872083Z",
+      "status": "active",
+      "voiceNoteSent": false,
+      "reminders": [
+        {
+          "time": "2026-01-26T17:00:07.295Z",
+          "type": "initial"
+        }
+      ]
+    },
+    {
+      "eventUri": "https://api.calendly.com/scheduled_events/cc38b350-6198-46e4-a707-61f9cec6941c",
+      "name": "Bjorn Paulsson",
+      "email": "bjorn.paulsson@paulsson.com",
+      "startTime": "2026-01-30T16:30:00.000000Z",
+      "timezone": "America/Los_Angeles",
+      "bookedAt": "2026-01-26T18:50:38.883466Z",
+      "status": "active",
+      "voiceNoteSent": false,
+      "reminders": [
+        {
+          "time": "2026-01-26T19:00:07.648Z",
+          "type": "initial"
+        }
+      ]
+    },
+    {
+      "eventUri": "https://api.calendly.com/scheduled_events/fc449dd6-7475-41cf-a6ea-5f8ae7e9ef41",
+      "name": "Kent Harkins",
+      "email": "kent@wavity.com",
+      "startTime": "2026-01-28T19:30:00.000000Z",
+      "timezone": "America/Los_Angeles",
+      "bookedAt": "2026-01-26T18:59:03.914117Z",
+      "status": "active",
+      "voiceNoteSent": false,
+      "reminders": [
+        {
+          "time": "2026-01-26T19:00:07.648Z",
+          "type": "initial"
+        }
+      ]
+    },
+    {
+      "eventUri": "https://api.calendly.com/scheduled_events/c7518c05-3e53-4afc-8b82-1c187dd36325",
+      "name": "Ria Richardson",
+      "email": "ria@etterramli.com",
+      "startTime": "2026-01-28T18:00:00.000000Z",
+      "timezone": "America/Los_Angeles",
+      "bookedAt": "2026-01-26T18:18:42.842513Z",
+      "status": "active",
+      "voiceNoteSent": false,
+      "reminders": [
+        {
+          "time": "2026-01-26T19:00:07.648Z",
+          "type": "initial"
+        }
+      ]
+    },
+    {
+      "eventUri": "https://api.calendly.com/scheduled_events/daf44e67-57cb-41ed-beb4-8b196a2899fc",
+      "name": "Tucker McCready",
+      "email": "tmccready@winops.com",
+      "startTime": "2026-01-28T17:15:00.000000Z",
+      "timezone": "America/New_York",
+      "bookedAt": "2026-01-26T18:44:18.202192Z",
+      "status": "active",
+      "voiceNoteSent": false,
+      "reminders": [
+        {
+          "time": "2026-01-26T19:00:07.648Z",
+          "type": "initial"
+        }
+      ]
     }
   ]
 }

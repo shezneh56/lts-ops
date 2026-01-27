@@ -1,0 +1,770 @@
+{
+  "bookings": {
+    "bb6bcf35-de0e-4f36-9e7e-3f4b8746bb39": {
+      "id": "bb6bcf35-de0e-4f36-9e7e-3f4b8746bb39",
+      "name": "Jonathan Madden",
+      "email": "jmadden@logisticsone.com",
+      "startTime": "2026-01-20T13:30:00.000000Z",
+      "timezone": "America/New_York",
+      "createdAt": "2026-01-19T21:44:02.945407Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-26T22:32:23.234Z"
+    },
+    "537825e3-e538-4e9d-aa6b-5410a98cd64e": {
+      "id": "537825e3-e538-4e9d-aa6b-5410a98cd64e",
+      "name": "Darren Costello",
+      "email": "darren@semad.ie",
+      "startTime": "2026-01-20T14:00:00.000000Z",
+      "timezone": "Europe/London",
+      "createdAt": "2026-01-20T10:21:52.634508Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-26T22:32:23.234Z"
+    },
+    "283d6a59-4b47-47e7-86e8-5aec7fe8adbd": {
+      "id": "283d6a59-4b47-47e7-86e8-5aec7fe8adbd",
+      "name": "Andrew Roland Obosu",
+      "email": "andrew@dimitra.io",
+      "startTime": "2026-01-20T15:00:00.000000Z",
+      "timezone": "America/New_York",
+      "createdAt": "2026-01-19T21:06:09.591179Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-26T22:32:23.234Z"
+    },
+    "d11daa1c-1296-49a0-b6ed-06ca278cc8c0": {
+      "id": "d11daa1c-1296-49a0-b6ed-06ca278cc8c0",
+      "name": "Kent Harkins",
+      "email": "kent@wavity.com",
+      "startTime": "2026-01-20T16:30:00.000000Z",
+      "timezone": "America/New_York",
+      "createdAt": "2026-01-14T20:33:51.640530Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-26T22:32:23.234Z"
+    },
+    "90753fce-19eb-4f3e-abe5-b57e91685769": {
+      "id": "90753fce-19eb-4f3e-abe5-b57e91685769",
+      "name": "Tolga Demirsar",
+      "email": "tolga.demirsar@elevateht.com",
+      "startTime": "2026-01-20T17:30:00.000000Z",
+      "timezone": "America/Chicago",
+      "createdAt": "2026-01-19T18:47:42.347280Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-26T22:32:23.234Z"
+    },
+    "325f3e8e-8577-4fb9-97f2-d096ec955518": {
+      "id": "325f3e8e-8577-4fb9-97f2-d096ec955518",
+      "name": "Rupert Maconick",
+      "email": "rupert@savilleproductions.com",
+      "startTime": "2026-01-20T18:30:00.000000Z",
+      "timezone": "America/Los_Angeles",
+      "createdAt": "2026-01-19T02:31:28.121510Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-26T22:32:23.234Z"
+    },
+    "5133820d-3e84-45b4-950a-adbdffe18421": {
+      "id": "5133820d-3e84-45b4-950a-adbdffe18421",
+      "name": "Emmanuel Massenez",
+      "email": "manu@kwali.ai",
+      "startTime": "2026-01-21T14:00:00.000000Z",
+      "timezone": "America/New_York",
+      "createdAt": "2026-01-20T21:59:05.830886Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-26T22:32:23.234Z"
+    },
+    "815c7e1c-7029-420f-837e-a2a077a5f062": {
+      "id": "815c7e1c-7029-420f-837e-a2a077a5f062",
+      "name": "Tino Sida",
+      "email": "tino.sida@futureenergy.com",
+      "startTime": "2026-01-21T15:00:00.000000Z",
+      "timezone": "America/New_York",
+      "createdAt": "2026-01-19T21:59:35.487916Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-26T22:32:23.234Z"
+    },
+    "7ac9e143-c409-4fba-9a58-8e3b4a8353c2": {
+      "id": "7ac9e143-c409-4fba-9a58-8e3b4a8353c2",
+      "name": "Manu Das",
+      "email": "manu@soffront.com",
+      "startTime": "2026-01-21T15:30:00.000000Z",
+      "timezone": "America/New_York",
+      "createdAt": "2026-01-19T20:10:51.027970Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-26T22:32:23.234Z"
+    },
+    "04a40de8-b472-4c14-88e3-437e5159224e": {
+      "id": "04a40de8-b472-4c14-88e3-437e5159224e",
+      "name": "Russ Heddleston",
+      "email": "russ@distill.fyi",
+      "startTime": "2026-01-21T16:00:00.000000Z",
+      "timezone": "America/New_York",
+      "createdAt": "2026-01-20T19:33:51.280896Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-26T22:32:23.234Z"
+    },
+    "913452a3-18f5-42a0-aa74-cbd1e0be7384": {
+      "id": "913452a3-18f5-42a0-aa74-cbd1e0be7384",
+      "name": "Johnny Mago",
+      "email": "johnny.mago@choco.com",
+      "startTime": "2026-01-21T16:30:00.000000Z",
+      "timezone": "America/New_York",
+      "createdAt": "2026-01-19T21:52:52.461212Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-26T22:32:23.234Z"
+    },
+    "8aa898f4-7a3f-4b94-bfa8-4b611d5eada1": {
+      "id": "8aa898f4-7a3f-4b94-bfa8-4b611d5eada1",
+      "name": "Robert Bess",
+      "email": "rbess@dayonesolutions.io",
+      "startTime": "2026-01-21T17:00:00.000000Z",
+      "timezone": "America/Los_Angeles",
+      "createdAt": "2026-01-20T17:57:26.567367Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-26T22:32:23.234Z"
+    },
+    "39383927-8b67-448c-91e7-1fa47658f9a2": {
+      "id": "39383927-8b67-448c-91e7-1fa47658f9a2",
+      "name": "Isaac Feiner",
+      "email": "isaac@lifepointhealthcare.co.uk",
+      "startTime": "2026-01-22T11:00:00.000000Z",
+      "timezone": "Europe/London",
+      "createdAt": "2026-01-20T01:03:07.793705Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-26T22:32:23.234Z"
+    },
+    "bb19e43f-4e5f-4aff-8b71-cbc78ccfa7e6": {
+      "id": "bb19e43f-4e5f-4aff-8b71-cbc78ccfa7e6",
+      "name": "Francois Labuschagne",
+      "email": "francois.labuschagne@dqs.de",
+      "startTime": "2026-01-22T13:00:00.000000Z",
+      "timezone": "America/New_York",
+      "createdAt": "2026-01-21T14:53:40.298471Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-26T22:32:23.234Z"
+    },
+    "748f98ad-0dd0-4111-9948-416120bb1b5a": {
+      "id": "748f98ad-0dd0-4111-9948-416120bb1b5a",
+      "name": "Jonathan Madden",
+      "email": "jmadden@logisticsone.com",
+      "startTime": "2026-01-22T15:00:00.000000Z",
+      "timezone": "America/New_York",
+      "createdAt": "2026-01-20T14:00:01.582770Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-26T22:32:23.234Z"
+    },
+    "6a6880f7-c1ef-43f2-b3c5-82de70c02e9e": {
+      "id": "6a6880f7-c1ef-43f2-b3c5-82de70c02e9e",
+      "name": "Jeane Andrade-Venekamp",
+      "email": "jeane@pspnow.com",
+      "startTime": "2026-01-22T17:30:00.000000Z",
+      "timezone": "America/New_York",
+      "createdAt": "2026-01-21T16:11:10.040420Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-26T22:32:23.234Z"
+    },
+    "1b35b820-62eb-41f4-97f7-afbf12184c81": {
+      "id": "1b35b820-62eb-41f4-97f7-afbf12184c81",
+      "name": "Ali Raza Wajid",
+      "email": "awajid@cordatusrg.com",
+      "startTime": "2026-01-22T18:00:00.000000Z",
+      "timezone": "America/New_York",
+      "createdAt": "2026-01-21T22:36:58.008580Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-26T22:32:23.234Z"
+    },
+    "f024e848-7950-4fc4-aaac-ce5db2b11574": {
+      "id": "f024e848-7950-4fc4-aaac-ce5db2b11574",
+      "name": "Vlad Lenski",
+      "email": "vlad.lenski@ucesys.com",
+      "startTime": "2026-01-22T18:30:00.000000Z",
+      "timezone": "America/New_York",
+      "createdAt": "2026-01-20T21:18:46.451758Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-26T22:32:23.234Z"
+    },
+    "69e2bc4d-6d93-4588-97b2-5f09a6cee372": {
+      "id": "69e2bc4d-6d93-4588-97b2-5f09a6cee372",
+      "name": "Theodor Larsen",
+      "email": "theodor.larsen@ecosubsea.com",
+      "startTime": "2026-01-23T13:00:00.000000Z",
+      "timezone": "Europe/Berlin",
+      "createdAt": "2026-01-22T14:11:11.716396Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-26T22:32:23.234Z"
+    },
+    "cfbfbfae-2433-45dc-a97f-70a8550eab21": {
+      "id": "cfbfbfae-2433-45dc-a97f-70a8550eab21",
+      "name": "Tino Sida",
+      "email": "tino.sida@futureenergy.com",
+      "startTime": "2026-01-23T14:00:00.000000Z",
+      "timezone": "America/New_York",
+      "createdAt": "2026-01-21T15:31:20.370355Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-26T22:32:23.234Z"
+    },
+    "ebe73d51-13be-4bac-88d7-04ccaac47508": {
+      "id": "ebe73d51-13be-4bac-88d7-04ccaac47508",
+      "name": "Fareed Aziz",
+      "email": "fa@stewardglobalconsulting.com",
+      "startTime": "2026-01-23T16:30:00.000000Z",
+      "timezone": "America/New_York",
+      "createdAt": "2026-01-21T17:04:47.728953Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-26T22:32:23.234Z"
+    },
+    "18d757e2-b165-49e6-8a6d-a7f2cb8989d8": {
+      "id": "18d757e2-b165-49e6-8a6d-a7f2cb8989d8",
+      "name": "Tallon Rood",
+      "email": "trr9230@g.rit.edu",
+      "startTime": "2026-01-23T17:00:00.000000Z",
+      "timezone": "America/New_York",
+      "createdAt": "2026-01-21T20:30:49.623593Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-26T22:32:23.234Z"
+    },
+    "4a09d717-3351-4245-b0cd-531cfd95cec2": {
+      "id": "4a09d717-3351-4245-b0cd-531cfd95cec2",
+      "name": "Kalyan A",
+      "email": "kalyan@appnerve.com",
+      "startTime": "2026-01-26T14:00:00.000000Z",
+      "timezone": "Europe/Berlin",
+      "createdAt": "2026-01-19T19:10:40.984917Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-26T22:32:23.234Z"
+    },
+    "85bd869a-bc1b-407d-9e86-bb31fe3c10e9": {
+      "id": "85bd869a-bc1b-407d-9e86-bb31fe3c10e9",
+      "name": "Kent Harkins",
+      "email": "kent@wavity.com",
+      "startTime": "2026-01-26T18:00:00.000000Z",
+      "timezone": "America/Los_Angeles",
+      "createdAt": "2026-01-20T16:31:15.099357Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-26T22:32:23.234Z"
+    },
+    "09260743-32f5-4fa5-842f-c28b963b0e4f": {
+      "id": "09260743-32f5-4fa5-842f-c28b963b0e4f",
+      "name": "Maria Matos",
+      "email": "maria.matos@hygraph.com",
+      "startTime": "2026-01-27T11:30:00.000000Z",
+      "timezone": "Europe/Berlin",
+      "createdAt": "2026-01-26T11:04:55.235157Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-26T22:32:23.234Z"
+    },
+    "cf6c3bcb-3f3f-41b7-91e7-6c11da075046": {
+      "id": "cf6c3bcb-3f3f-41b7-91e7-6c11da075046",
+      "name": "Theodor Larsen",
+      "email": "theodor.larsen@ecosubsea.com",
+      "startTime": "2026-01-27T12:00:00.000000Z",
+      "timezone": "Europe/Berlin",
+      "createdAt": "2026-01-26T13:00:14.015147Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-26T22:32:23.234Z"
+    },
+    "bba9732b-6b3e-463c-b18c-3e0bb9422884": {
+      "id": "bba9732b-6b3e-463c-b18c-3e0bb9422884",
+      "name": "Justin Smith",
+      "email": "jsmith@txreproperties.com",
+      "startTime": "2026-01-27T13:00:00.000000Z",
+      "timezone": "America/New_York",
+      "createdAt": "2026-01-26T21:33:35.793695Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-26T22:32:23.234Z"
+    },
+    "36f22e4c-336a-440d-bdd9-5cff3c190870": {
+      "id": "36f22e4c-336a-440d-bdd9-5cff3c190870",
+      "name": "Eberhard Lucke",
+      "email": "elucke@luckeconsulting.com",
+      "startTime": "2026-01-27T15:00:00.000000Z",
+      "timezone": "America/New_York",
+      "createdAt": "2026-01-26T16:12:21.718112Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-26T22:32:23.234Z"
+    },
+    "95c23b7b-bdda-49ba-b6b0-9adf7b0c09cc": {
+      "id": "95c23b7b-bdda-49ba-b6b0-9adf7b0c09cc",
+      "name": "Alejandro Valenzuela",
+      "email": "avalenzuela@uscustombroker.com",
+      "startTime": "2026-01-27T16:00:00.000000Z",
+      "timezone": "America/Chicago",
+      "createdAt": "2026-01-21T17:01:08.065185Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-26T22:32:23.234Z"
+    },
+    "a6e65e83-cd7d-4bca-a048-f186f2693eca": {
+      "id": "a6e65e83-cd7d-4bca-a048-f186f2693eca",
+      "name": "Jordan Sanders",
+      "email": "jordan.sanders@bundleskills.com",
+      "startTime": "2026-01-27T17:00:00.000000Z",
+      "timezone": "America/Chicago",
+      "createdAt": "2026-01-21T19:20:24.641477Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-26T22:32:23.234Z"
+    },
+    "166da6c4-bc48-4a73-8f89-4bc0dc80bcef": {
+      "id": "166da6c4-bc48-4a73-8f89-4bc0dc80bcef",
+      "name": "Adam Brown",
+      "email": "adam@internationaljet.com",
+      "startTime": "2026-01-27T18:00:00.000000Z",
+      "timezone": "America/Denver",
+      "createdAt": "2026-01-22T16:40:14.545396Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-26T22:32:23.234Z"
+    },
+    "d5f0e662-b069-4373-9d01-c3fc97a12308": {
+      "id": "d5f0e662-b069-4373-9d01-c3fc97a12308",
+      "name": "Francois Labuschagne",
+      "email": "francois.labuschagne@dqs.de",
+      "startTime": "2026-01-28T11:00:00.000000Z",
+      "timezone": "Europe/Berlin",
+      "createdAt": "2026-01-22T13:25:10.152630Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-26T22:32:23.234Z"
+    },
+    "daf44e67-57cb-41ed-beb4-8b196a2899fc": {
+      "id": "daf44e67-57cb-41ed-beb4-8b196a2899fc",
+      "name": "Tucker McCready",
+      "email": "tmccready@winops.com",
+      "startTime": "2026-01-28T17:15:00.000000Z",
+      "timezone": "America/New_York",
+      "createdAt": "2026-01-26T18:44:18.184559Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-26T22:32:23.234Z"
+    },
+    "c7518c05-3e53-4afc-8b82-1c187dd36325": {
+      "id": "c7518c05-3e53-4afc-8b82-1c187dd36325",
+      "name": "Ria Richardson",
+      "email": "ria@etterramli.com",
+      "startTime": "2026-01-28T18:00:00.000000Z",
+      "timezone": "America/Los_Angeles",
+      "createdAt": "2026-01-26T18:18:42.827039Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-26T22:32:23.234Z"
+    },
+    "fc449dd6-7475-41cf-a6ea-5f8ae7e9ef41": {
+      "id": "fc449dd6-7475-41cf-a6ea-5f8ae7e9ef41",
+      "name": "Kent Harkins",
+      "email": "kent@wavity.com",
+      "startTime": "2026-01-28T19:30:00.000000Z",
+      "timezone": "America/Los_Angeles",
+      "createdAt": "2026-01-26T18:59:03.886345Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-26T22:32:23.234Z"
+    },
+    "2e730ff8-53b8-456d-b650-ad8f4477ba9e": {
+      "id": "2e730ff8-53b8-456d-b650-ad8f4477ba9e",
+      "name": "Jason Tunley",
+      "email": "jason.tunley@dunhamswashrooms.com",
+      "startTime": "2026-01-29T12:00:00.000000Z",
+      "timezone": "Europe/London",
+      "createdAt": "2026-01-23T14:41:16.581722Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-26T22:32:23.234Z"
+    },
+    "bf80a382-0c40-4486-9beb-4f43fac98094": {
+      "id": "bf80a382-0c40-4486-9beb-4f43fac98094",
+      "name": "Graham Clark",
+      "email": "gvclark@mcorp.cx",
+      "startTime": "2026-01-29T14:00:00.000000Z",
+      "timezone": "America/New_York",
+      "createdAt": "2026-01-20T19:47:59.089549Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-26T22:32:23.234Z"
+    },
+    "c6803beb-d0e1-46b8-b8a3-d043e43220f3": {
+      "id": "c6803beb-d0e1-46b8-b8a3-d043e43220f3",
+      "name": "Tino Sida",
+      "email": "tino.sida@futureenergy.com",
+      "startTime": "2026-01-29T15:00:00.000000Z",
+      "timezone": "America/New_York",
+      "createdAt": "2026-01-23T14:24:50.167307Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-26T22:32:23.234Z"
+    },
+    "4f6bea80-94b2-4be0-9590-e7f83d23f802": {
+      "id": "4f6bea80-94b2-4be0-9590-e7f83d23f802",
+      "name": "Dave Fox",
+      "email": "dfox@focusgts.com",
+      "startTime": "2026-01-29T15:30:00.000000Z",
+      "timezone": "America/New_York",
+      "createdAt": "2026-01-23T16:25:19.255566Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-26T22:32:23.234Z"
+    },
+    "2a41f24e-f624-4f34-a2cd-d2ab602fbe70": {
+      "id": "2a41f24e-f624-4f34-a2cd-d2ab602fbe70",
+      "name": "Chan Lee",
+      "email": "chan.lee@asuene.com",
+      "startTime": "2026-01-29T16:45:00.000000Z",
+      "timezone": "America/New_York",
+      "createdAt": "2026-01-23T20:28:17.756581Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-26T22:32:23.234Z"
+    },
+    "e15d0ccf-b058-4fa7-acbd-590c711f4214": {
+      "id": "e15d0ccf-b058-4fa7-acbd-590c711f4214",
+      "name": "Barry Rothstein",
+      "email": "brothstein@naicapital.com",
+      "startTime": "2026-01-29T17:30:00.000000Z",
+      "timezone": "America/New_York",
+      "createdAt": "2026-01-23T22:33:05.251193Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-26T22:32:23.234Z"
+    },
+    "3f149ff0-f857-4aac-bbef-e447e87d7d2b": {
+      "id": "3f149ff0-f857-4aac-bbef-e447e87d7d2b",
+      "name": "Bader Obeid",
+      "email": "bader@cmaflooring.com",
+      "startTime": "2026-01-29T18:15:00.000000Z",
+      "timezone": "America/Chicago",
+      "createdAt": "2026-01-26T14:43:59.501176Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-26T22:32:23.234Z"
+    },
+    "49cd43dd-006e-4d58-a780-7a13639b5182": {
+      "id": "49cd43dd-006e-4d58-a780-7a13639b5182",
+      "name": "Alanna Johnson",
+      "email": "alannajohnson@kms-technology.com",
+      "startTime": "2026-01-30T14:30:00.000000Z",
+      "timezone": "America/New_York",
+      "createdAt": "2026-01-26T15:54:31.784232Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-26T22:32:23.234Z"
+    },
+    "6233b521-16e2-4d90-86e3-2e0d9a362eb5": {
+      "id": "6233b521-16e2-4d90-86e3-2e0d9a362eb5",
+      "name": "Scott Harvey",
+      "email": "sharvey@fireblocks.com",
+      "startTime": "2026-01-30T15:30:00.000000Z",
+      "timezone": "America/Los_Angeles",
+      "createdAt": "2026-01-13T17:36:19.589250Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-26T22:32:23.234Z"
+    },
+    "094f39fd-06f5-4492-a67f-6355142ab39c": {
+      "id": "094f39fd-06f5-4492-a67f-6355142ab39c",
+      "name": "Jeff Davis",
+      "email": "jeffdavis@advanceddynamicscorp.com",
+      "startTime": "2026-01-30T16:00:00.000000Z",
+      "timezone": "America/New_York",
+      "createdAt": "2026-01-26T15:39:35.975163Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-26T22:32:23.234Z"
+    },
+    "cc38b350-6198-46e4-a707-61f9cec6941c": {
+      "id": "cc38b350-6198-46e4-a707-61f9cec6941c",
+      "name": "Bjorn Paulsson",
+      "email": "bjorn.paulsson@paulsson.com",
+      "startTime": "2026-01-30T16:30:00.000000Z",
+      "timezone": "America/Los_Angeles",
+      "createdAt": "2026-01-26T18:50:38.760622Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-26T22:32:23.234Z"
+    },
+    "4e790b18-0f85-44c2-8e4f-9c6fd14c799e": {
+      "id": "4e790b18-0f85-44c2-8e4f-9c6fd14c799e",
+      "name": "Lyman Wescott",
+      "email": "lwescott@lyoncredit.com",
+      "startTime": "2026-01-30T17:30:00.000000Z",
+      "timezone": "America/New_York",
+      "createdAt": "2026-01-26T16:02:32.117217Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-26T22:32:23.234Z"
+    },
+    "faa1f157-65be-4c47-86dd-a8a8ddf4f0d8": {
+      "id": "faa1f157-65be-4c47-86dd-a8a8ddf4f0d8",
+      "name": "Nilesh Parmar",
+      "email": "nparmar@choicelogistics.com",
+      "startTime": "2026-02-02T14:00:00.000000Z",
+      "timezone": "Europe/Berlin",
+      "createdAt": "2026-01-26T08:20:29.710978Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-26T22:32:23.234Z"
+    },
+    "1d7fc311-1278-4cd7-b5ba-bf1bc12059f4": {
+      "id": "1d7fc311-1278-4cd7-b5ba-bf1bc12059f4",
+      "name": "Justin Smith",
+      "email": "jsmith@txreproperties.com",
+      "startTime": "2026-02-05T14:00:00.000000Z",
+      "timezone": "America/New_York",
+      "createdAt": "2026-01-27T13:44:14.127438Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-27T14:00:15.162Z"
+    },
+    "7361b916-6d1a-42eb-99eb-0a49dbc5d37f": {
+      "id": "7361b916-6d1a-42eb-99eb-0a49dbc5d37f",
+      "name": "Maria Santos",
+      "email": "maria@riseuplabs.com",
+      "startTime": "2026-01-28T13:30:00.000000Z",
+      "timezone": "America/New_York",
+      "createdAt": "2026-01-27T15:54:17.088184Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-27T16:00:14.895Z"
+    },
+    "78bac937-3467-4102-878d-5dc97322725b": {
+      "id": "78bac937-3467-4102-878d-5dc97322725b",
+      "name": "David Salamon",
+      "email": "david@salamonengineering.com",
+      "startTime": "2026-01-29T13:00:00.000000Z",
+      "timezone": "America/New_York",
+      "createdAt": "2026-01-27T15:34:19.851015Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-27T16:00:14.895Z"
+    }
+  },
+  "lastCheck": "2026-01-27T16:14:58.808Z"
+}
