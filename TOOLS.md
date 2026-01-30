@@ -23,6 +23,25 @@ When creating Notion pages, use this as the parent:
 {"parent": {"page_id": "2f4de1d9-5312-808f-babc-f36fd96d94de"}}
 ```
 
+### Project Tracker Databases
+
+**Projects DB:**
+- ID: `2f8de1d9-5312-8190-a7e3-f4ea0c2e2bb8`
+- URL: https://www.notion.so/2f8de1d953128190a7e3f4ea0c2e2bb8
+- Fields: Name, Status, Priority, Type, Due Date, GitHub, Progress
+
+**Tasks DB:**
+- ID: `2f8de1d9-5312-815c-87b6-f98708eb1769`
+- URL: https://www.notion.so/2f8de1d95312815c87b6f98708eb1769
+- Fields: Name, Status, Project (relation), Priority, Assignee, Due Date, GitHub, Notes
+
+**Statuses:**
+- Projects: Backlog → This Week → In Progress → Done
+- Tasks: To Do → In Progress → Blocked → Done
+
+**Types:** Client, Ops, Automation, Admin
+**Assignees:** Liam, Clawd, Zina, Mary, Shahria
+
 ## Campaign Management Tools
 
 ### EmailBison MCP & Campaign Engine
