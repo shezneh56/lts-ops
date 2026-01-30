@@ -12,6 +12,17 @@ Things like:
 - Device nicknames
 - Anything environment-specific
 
+## Notion
+
+**Clawd folder (ALWAYS put new pages here):**
+- ID: `2f4de1d9-5312-808f-babc-f36fd96d94de`
+- URL: https://www.notion.so/Clawd-2f4de1d95312808fbabcf36fd96d94de
+
+When creating Notion pages, use this as the parent:
+```json
+{"parent": {"page_id": "2f4de1d9-5312-808f-babc-f36fd96d94de"}}
+```
+
 ## Campaign Management Tools
 
 ### EmailBison MCP & Campaign Engine

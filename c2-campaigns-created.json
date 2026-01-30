@@ -1,0 +1,18 @@
+{
+  "workspace": "C2 Experience",
+  "created_at": "2026-01-29",
+  "campaigns": [
+    {
+      "name": "C2 - Central Bank - Digital Leaders",
+      "error": "Client error '422 Unprocessable Content' for url 'https://send.leadsthat.show/api/campaigns/v1.1/sequence-steps/665'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/422"
+    },
+    {
+      "name": "C2 - CCC Nebraska - Higher Ed Leaders",
+      "error": "Client error '422 Unprocessable Content' for url 'https://send.leadsthat.show/api/campaigns/v1.1/sequence-steps/666'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/422"
+    },
+    {
+      "name": "C2 - Certinia - Digital Leaders",
+      "error": "Client error '422 Unprocessable Content' for url 'https://send.leadsthat.show/api/campaigns/v1.1/sequence-steps/667'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/422"
+    }
+  ]
+}

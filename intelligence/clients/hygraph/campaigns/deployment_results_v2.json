@@ -1,0 +1,195 @@
+[
+  {
+    "success": true,
+    "campaign_id": 751,
+    "steps": 2,
+    "step_ids": [
+      4497,
+      4498
+    ],
+    "campaign_num": 1,
+    "name": "HYG New ICP - D2C Ecommerce - Engineering"
+  },
+  {
+    "success": true,
+    "campaign_id": 752,
+    "steps": 2,
+    "step_ids": [
+      4499,
+      4500
+    ],
+    "campaign_num": 2,
+    "name": "HYG New ICP - D2C Ecommerce - Product"
+  },
+  {
+    "success": true,
+    "campaign_id": 753,
+    "steps": 6,
+    "step_ids": [
+      4501,
+      4502,
+      4503,
+      4504,
+      4505,
+      4506
+    ],
+    "campaign_num": 3,
+    "name": "HYG New ICP - D2C Ecommerce - Executive"
+  },
+  {
+    "success": true,
+    "campaign_id": 754,
+    "steps": 6,
+    "step_ids": [
+      4507,
+      4508,
+      4509,
+      4510,
+      4511,
+      4512
+    ],
+    "campaign_num": 4,
+    "name": "HYG New ICP - Manufacturing - Engineering"
+  },
+  {
+    "success": true,
+    "campaign_id": 755,
+    "steps": 6,
+    "step_ids": [
+      4513,
+      4514,
+      4515,
+      4516,
+      4517,
+      4518
+    ],
+    "campaign_num": 5,
+    "name": "HYG New ICP - Manufacturing - Product"
+  },
+  {
+    "success": true,
+    "campaign_id": 756,
+    "steps": 3,
+    "step_ids": [
+      4519,
+      4520,
+      4521
+    ],
+    "campaign_num": 6,
+    "name": "HYG New ICP - Manufacturing - Executive"
+  },
+  {
+    "success": true,
+    "campaign_id": 757,
+    "steps": 2,
+    "step_ids": [
+      4522,
+      4523
+    ],
+    "campaign_num": 7,
+    "name": "HYG New ICP - Gaming - Engineering"
+  },
+  {
+    "success": true,
+    "campaign_id": 758,
+    "steps": 3,
+    "step_ids": [
+      4524,
+      4525,
+      4526
+    ],
+    "campaign_num": 8,
+    "name": "HYG New ICP - Gaming - Product"
+  },
+  {
+    "success": true,
+    "campaign_id": 759,
+    "steps": 6,
+    "step_ids": [
+      4527,
+      4528,
+      4529,
+      4530,
+      4531,
+      4532
+    ],
+    "campaign_num": 9,
+    "name": "HYG New ICP - Gaming - Executive"
+  },
+  {
+    "success": true,
+    "campaign_id": 760,
+    "steps": 2,
+    "step_ids": [
+      4533,
+      4534
+    ],
+    "campaign_num": 10,
+    "name": "HYG New ICP - Hospitality - Engineering"
+  },
+  {
+    "success": true,
+    "campaign_id": 761,
+    "steps": 6,
+    "step_ids": [
+      4535,
+      4536,
+      4537,
+      4538,
+      4539,
+      4540
+    ],
+    "campaign_num": 11,
+    "name": "HYG New ICP - Hospitality - Product"
+  },
+  {
+    "success": true,
+    "campaign_id": 762,
+    "steps": 2,
+    "step_ids": [
+      4541,
+      4542
+    ],
+    "campaign_num": 12,
+    "name": "HYG New ICP - Hospitality - Executive"
+  },
+  {
+    "success": true,
+    "campaign_id": 763,
+    "steps": 3,
+    "step_ids": [
+      4543,
+      4544,
+      4545
+    ],
+    "campaign_num": 13,
+    "name": "HYG New ICP - Entertainment - Engineering"
+  },
+  {
+    "success": true,
+    "campaign_id": 764,
+    "steps": 6,
+    "step_ids": [
+      4546,
+      4547,
+      4548,
+      4549,
+      4550,
+      4551
+    ],
+    "campaign_num": 14,
+    "name": "HYG New ICP - Entertainment - Product"
+  },
+  {
+    "success": true,
+    "campaign_id": 765,
+    "steps": 3,
+    "step_ids": [
+      4552,
+      4553,
+      4554
+    ],
+    "campaign_num": 15,
+    "name": "HYG New ICP - Entertainment - Executive"
+  }
+]

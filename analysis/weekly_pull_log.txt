@@ -1,0 +1,129 @@
+================================================================================
+WEEKLY PERFORMANCE ANALYSIS - ALL WORKSPACES
+Generated: 2026-01-29T10:36:18.046851
+================================================================================
+
+
+================================================================================
+WORKSPACE: C2 Experience
+================================================================================
+Total campaigns: 15
+
+Workspace Summary:
+  Total Sent: 0
+  Total Replies: 0 (0%)
+  Total Interested: 0 (0%)
+
+
+================================================================================
+WORKSPACE: CGS Team
+================================================================================
+Total campaigns: 15
+
+Workspace Summary:
+  Total Sent: 0
+  Total Replies: 0 (0%)
+  Total Interested: 0 (0%)
+
+
+================================================================================
+WORKSPACE: Gestell
+================================================================================
+Total campaigns: 15
+
+Workspace Summary:
+  Total Sent: 0
+  Total Replies: 0 (0%)
+  Total Interested: 0 (0%)
+
+
+================================================================================
+WORKSPACE: Hygraph
+================================================================================
+Total campaigns: 15
+
+Workspace Summary:
+  Total Sent: 0
+  Total Replies: 0 (0%)
+  Total Interested: 0 (0%)
+
+
+================================================================================
+WORKSPACE: Jam Pot
+================================================================================
+Total campaigns: 9
+
+Workspace Summary:
+  Total Sent: 0
+  Total Replies: 0 (0%)
+  Total Interested: 0 (0%)
+
+
+================================================================================
+WORKSPACE: LawTech
+================================================================================
+Total campaigns: 15
+
+Workspace Summary:
+  Total Sent: 0
+  Total Replies: 0 (0%)
+  Total Interested: 0 (0%)
+
+
+================================================================================
+WORKSPACE: Leads That Show
+================================================================================
+Total campaigns: 15
+
+Workspace Summary:
+  Total Sent: 0
+  Total Replies: 0 (0%)
+  Total Interested: 0 (0%)
+
+
+================================================================================
+WORKSPACE: LegalSoft
+================================================================================
+Total campaigns: 15
+
+Workspace Summary:
+  Total Sent: 0
+  Total Replies: 0 (0%)
+  Total Interested: 0 (0%)
+
+
+================================================================================
+WORKSPACE: Med Virtual
+================================================================================
+Total campaigns: 5
+
+Workspace Summary:
+  Total Sent: 0
+  Total Replies: 0 (0%)
+  Total Interested: 0 (0%)
+
+
+================================================================================
+WORKSPACE: Paralect
+================================================================================
+Total campaigns: 15
+
+Workspace Summary:
+  Total Sent: 0
+  Total Replies: 0 (0%)
+  Total Interested: 0 (0%)
+
+
+================================================================================
+WORKSPACE: Wow 24-7
+================================================================================
+Total campaigns: 11
+
+Workspace Summary:
+  Total Sent: 0
+  Total Replies: 0 (0%)
+  Total Interested: 0 (0%)
+
+
+Raw data saved to /root/clawd/analysis/weekly_campaign_data.json
+Total campaigns analyzed: 0

@@ -25,18 +25,10 @@
 - **Added:** 2026-01-26
 - **8AM CET:** Deliverability checker runs - will provide summary
 
-### Cua Computer-Server Setup
-- **Context:** Desktop control for Clawdbot - screenshots, clicks, typing, scrolling. Can automate any GUI application.
-- **Links:** 
-  - PR: https://github.com/clawdbot/clawdbot/pull/1946
-  - Docs: https://cua.ai/docs/cua/guide/get-started/what-is-desktop-sandbox
-- **Pending:** Set up with Liam tomorrow
-- **Added:** 2026-01-26
-
-### VPS Security Check
-- **Context:** fail2ban + ufw for protection against brute force
-- **Commands:** `apt install fail2ban -y && systemctl enable fail2ban --now && ufw allow 22 && ufw enable`
-- **Pending:** Check if already installed on this server
+### Cua Computer-Server ✅
+- **Status:** Running (Docker container `cua-desktop`)
+- **noVNC:** http://localhost:6080
+- **API:** http://localhost:8000
 - **Added:** 2026-01-26
 
 ---

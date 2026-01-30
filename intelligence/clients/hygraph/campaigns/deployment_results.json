@@ -1,0 +1,97 @@
+[
+  {
+    "success": true,
+    "campaign_id": 736,
+    "steps": 2,
+    "campaign_num": 1,
+    "name": "HYG New ICP - D2C Ecommerce - Engineering"
+  },
+  {
+    "success": true,
+    "campaign_id": 737,
+    "steps": 2,
+    "campaign_num": 2,
+    "name": "HYG New ICP - D2C Ecommerce - Product"
+  },
+  {
+    "success": false,
+    "error": "Campaign created but failed to add steps: {\"data\":{\"success\":false,\"message\":\"The sequence_steps.0.order field has a duplicate value. (and 4 more errors)\",\"errors\":{\"sequence_steps.0.order\":[\"The sequence_steps.0.order field has a duplicate value.\"],\"sequence_steps.1.order\":[\"The sequence_steps.1.order field has a duplicate value.\"],\"sequence_steps.2.order\":[\"The sequence_steps.2.order field has a duplicate value.\"],\"sequence_steps.3.order\":[\"The sequence_steps.3.order field has a duplicate value.\"],\"sequence_steps.4.order\":[\"The sequence_steps.4.order field has a duplicate value.\"]}}}",
+    "campaign_num": 3,
+    "name": "HYG New ICP - D2C Ecommerce - Executive"
+  },
+  {
+    "success": false,
+    "error": "Campaign created but failed to add steps: {\"data\":{\"success\":false,\"message\":\"The sequence_steps.0.order field has a duplicate value. (and 4 more errors)\",\"errors\":{\"sequence_steps.0.order\":[\"The sequence_steps.0.order field has a duplicate value.\"],\"sequence_steps.1.order\":[\"The sequence_steps.1.order field has a duplicate value.\"],\"sequence_steps.2.order\":[\"The sequence_steps.2.order field has a duplicate value.\"],\"sequence_steps.3.order\":[\"The sequence_steps.3.order field has a duplicate value.\"],\"sequence_steps.4.order\":[\"The sequence_steps.4.order field has a duplicate value.\"]}}}",
+    "campaign_num": 4,
+    "name": "HYG New ICP - Manufacturing - Engineering"
+  },
+  {
+    "success": false,
+    "error": "Campaign created but failed to add steps: {\"data\":{\"success\":false,\"message\":\"The sequence_steps.0.order field has a duplicate value. (and 4 more errors)\",\"errors\":{\"sequence_steps.0.order\":[\"The sequence_steps.0.order field has a duplicate value.\"],\"sequence_steps.1.order\":[\"The sequence_steps.1.order field has a duplicate value.\"],\"sequence_steps.2.order\":[\"The sequence_steps.2.order field has a duplicate value.\"],\"sequence_steps.3.order\":[\"The sequence_steps.3.order field has a duplicate value.\"],\"sequence_steps.4.order\":[\"The sequence_steps.4.order field has a duplicate value.\"]}}}",
+    "campaign_num": 5,
+    "name": "HYG New ICP - Manufacturing - Product"
+  },
+  {
+    "success": false,
+    "error": "Campaign created but failed to add steps: {\"data\":{\"success\":false,\"message\":\"The sequence_steps.0.order field has a duplicate value. (and 1 more error)\",\"errors\":{\"sequence_steps.0.order\":[\"The sequence_steps.0.order field has a duplicate value.\"],\"sequence_steps.1.order\":[\"The sequence_steps.1.order field has a duplicate value.\"]}}}",
+    "campaign_num": 6,
+    "name": "HYG New ICP - Manufacturing - Executive"
+  },
+  {
+    "success": true,
+    "campaign_id": 742,
+    "steps": 2,
+    "campaign_num": 7,
+    "name": "HYG New ICP - Gaming - Engineering"
+  },
+  {
+    "success": false,
+    "error": "Campaign created but failed to add steps: {\"data\":{\"success\":false,\"message\":\"The sequence_steps.0.order field has a duplicate value. (and 1 more error)\",\"errors\":{\"sequence_steps.0.order\":[\"The sequence_steps.0.order field has a duplicate value.\"],\"sequence_steps.1.order\":[\"The sequence_steps.1.order field has a duplicate value.\"]}}}",
+    "campaign_num": 8,
+    "name": "HYG New ICP - Gaming - Product"
+  },
+  {
+    "success": false,
+    "error": "Campaign created but failed to add steps: {\"data\":{\"success\":false,\"message\":\"The sequence_steps.0.order field has a duplicate value. (and 4 more errors)\",\"errors\":{\"sequence_steps.0.order\":[\"The sequence_steps.0.order field has a duplicate value.\"],\"sequence_steps.1.order\":[\"The sequence_steps.1.order field has a duplicate value.\"],\"sequence_steps.2.order\":[\"The sequence_steps.2.order field has a duplicate value.\"],\"sequence_steps.3.order\":[\"The sequence_steps.3.order field has a duplicate value.\"],\"sequence_steps.4.order\":[\"The sequence_steps.4.order field has a duplicate value.\"]}}}",
+    "campaign_num": 9,
+    "name": "HYG New ICP - Gaming - Executive"
+  },
+  {
+    "success": true,
+    "campaign_id": 745,
+    "steps": 2,
+    "campaign_num": 10,
+    "name": "HYG New ICP - Hospitality - Engineering"
+  },
+  {
+    "success": false,
+    "error": "Campaign created but failed to add steps: {\"data\":{\"success\":false,\"message\":\"The sequence_steps.0.order field has a duplicate value. (and 4 more errors)\",\"errors\":{\"sequence_steps.0.order\":[\"The sequence_steps.0.order field has a duplicate value.\"],\"sequence_steps.1.order\":[\"The sequence_steps.1.order field has a duplicate value.\"],\"sequence_steps.2.order\":[\"The sequence_steps.2.order field has a duplicate value.\"],\"sequence_steps.3.order\":[\"The sequence_steps.3.order field has a duplicate value.\"],\"sequence_steps.4.order\":[\"The sequence_steps.4.order field has a duplicate value.\"]}}}",
+    "campaign_num": 11,
+    "name": "HYG New ICP - Hospitality - Product"
+  },
+  {
+    "success": true,
+    "campaign_id": 747,
+    "steps": 2,
+    "campaign_num": 12,
+    "name": "HYG New ICP - Hospitality - Executive"
+  },
+  {
+    "success": false,
+    "error": "Campaign created but failed to add steps: {\"data\":{\"success\":false,\"message\":\"The sequence_steps.0.order field has a duplicate value. (and 1 more error)\",\"errors\":{\"sequence_steps.0.order\":[\"The sequence_steps.0.order field has a duplicate value.\"],\"sequence_steps.1.order\":[\"The sequence_steps.1.order field has a duplicate value.\"]}}}",
+    "campaign_num": 13,
+    "name": "HYG New ICP - Entertainment - Engineering"
+  },
+  {
+    "success": false,
+    "error": "Campaign created but failed to add steps: {\"data\":{\"success\":false,\"message\":\"The sequence_steps.0.order field has a duplicate value. (and 4 more errors)\",\"errors\":{\"sequence_steps.0.order\":[\"The sequence_steps.0.order field has a duplicate value.\"],\"sequence_steps.1.order\":[\"The sequence_steps.1.order field has a duplicate value.\"],\"sequence_steps.2.order\":[\"The sequence_steps.2.order field has a duplicate value.\"],\"sequence_steps.3.order\":[\"The sequence_steps.3.order field has a duplicate value.\"],\"sequence_steps.4.order\":[\"The sequence_steps.4.order field has a duplicate value.\"]}}}",
+    "campaign_num": 14,
+    "name": "HYG New ICP - Entertainment - Product"
+  },
+  {
+    "success": false,
+    "error": "Campaign created but failed to add steps: {\"data\":{\"success\":false,\"message\":\"The sequence_steps.0.order field has a duplicate value. (and 1 more error)\",\"errors\":{\"sequence_steps.0.order\":[\"The sequence_steps.0.order field has a duplicate value.\"],\"sequence_steps.1.order\":[\"The sequence_steps.1.order field has a duplicate value.\"]}}}",
+    "campaign_num": 15,
+    "name": "HYG New ICP - Entertainment - Executive"
+  }
+]

@@ -1,0 +1,318 @@
+{
+  "daily_totals": {
+    "2025-01-19": {
+      "sent": 0,
+      "replied": 0,
+      "interested": 0,
+      "opens": 0
+    },
+    "2025-01-20": {
+      "sent": 0,
+      "replied": 0,
+      "interested": 0,
+      "opens": 0
+    },
+    "2025-01-21": {
+      "sent": 0,
+      "replied": 0,
+      "interested": 0,
+      "opens": 0
+    },
+    "2025-01-22": {
+      "sent": 0,
+      "replied": 0,
+      "interested": 0,
+      "opens": 0
+    },
+    "2025-01-23": {
+      "sent": 0,
+      "replied": 0,
+      "interested": 0,
+      "opens": 0
+    },
+    "2025-01-24": {
+      "sent": 0,
+      "replied": 0,
+      "interested": 0,
+      "opens": 0
+    },
+    "2025-01-25": {
+      "sent": 0,
+      "replied": 0,
+      "interested": 0,
+      "opens": 0
+    },
+    "2025-01-26": {
+      "sent": 0,
+      "replied": 0,
+      "interested": 0,
+      "opens": 0
+    },
+    "2025-01-27": {
+      "sent": 0,
+      "replied": 0,
+      "interested": 0,
+      "opens": 0
+    },
+    "2025-01-28": {
+      "sent": 0,
+      "replied": 0,
+      "interested": 0,
+      "opens": 0
+    },
+    "2025-01-29": {
+      "sent": 0,
+      "replied": 0,
+      "interested": 0,
+      "opens": 0
+    }
+  },
+  "top_campaigns": [
+    [
+      "717",
+      "LTS-PROF-SALES V5",
+      "active",
+      64821,
+      35
+    ],
+    [
+      "421",
+      "Tech B2B - CRO - US - old",
+      "active",
+      42590,
+      34
+    ],
+    [
+      "116",
+      "Founder - US - 10-100 - relaunch (SaaS, CyberSec, IT, Marketing)",
+      "completed",
+      28763,
+      27
+    ],
+    [
+      "108",
+      "SaaS - CRO - US",
+      "completed",
+      23171,
+      25
+    ],
+    [
+      "107",
+      "Prof Services - CRO - US",
+      "completed",
+      27380,
+      24
+    ],
+    [
+      "165",
+      "SaaS - CRO - US - new",
+      "completed",
+      26885,
+      20
+    ],
+    [
+      "27",
+      "Prof Services - CRO - US - 51-500",
+      "archived",
+      20544,
+      20
+    ],
+    [
+      "711",
+      "LTS-SAAS-SALES V5",
+      "launching",
+      62526,
+      19
+    ],
+    [
+      "20",
+      "SaaS - Founder - US - 10-100",
+      "completed",
+      9313,
+      18
+    ],
+    [
+      "141",
+      "Tech B2B - CRO - US - relaunch",
+      "completed",
+      32347,
+      15
+    ],
+    [
+      "35",
+      "SaaS - CRO - US - 11-50",
+      "archived",
+      8497,
+      15
+    ],
+    [
+      "712",
+      "LTS-FIN-SALES V5",
+      "active",
+      33425,
+      13
+    ],
+    [
+      "419",
+      "Prof Services - CRO - US - old",
+      "completed",
+      26299,
+      12
+    ],
+    [
+      "170",
+      "SaaS - CRO - EMEA - new",
+      "completed",
+      20621,
+      12
+    ],
+    [
+      "57",
+      "Tech B2B - CRO - US - 11-2000 - pt 2",
+      "completed",
+      7111,
+      11
+    ],
+    [
+      "189",
+      "SaaS - CRO - US",
+      "completed",
+      22753,
+      10
+    ],
+    [
+      "188",
+      "Prof Services - CRO - US",
+      "completed",
+      26868,
+      10
+    ],
+    [
+      "78",
+      "CyberSec - CEO - US - 21-500",
+      "completed",
+      14218,
+      10
+    ],
+    [
+      "23",
+      "Marketing - Founder - US - 10-100",
+      "completed",
+      8707,
+      10
+    ],
+    [
+      "114",
+      "IT - CRO - US",
+      "completed",
+      21758,
+      9
+    ]
+  ],
+  "active_campaigns": [
+    [
+      "717",
+      "LTS-PROF-SALES V5",
+      64821,
+      35
+    ],
+    [
+      "421",
+      "Tech B2B - CRO - US - old",
+      42590,
+      34
+    ],
+    [
+      "712",
+      "LTS-FIN-SALES V5",
+      33425,
+      13
+    ],
+    [
+      "715",
+      "LTS-FIN-MKT V5",
+      5603,
+      0
+    ],
+    [
+      "714",
+      "LTS-SAAS-MKT V5",
+      1471,
+      0
+    ],
+    [
+      "713",
+      "LTS-CYBER-SALES V5",
+      2539,
+      0
+    ],
+    [
+      "425",
+      "LTS - VC/PE - UK - CEO/Founder",
+      12,
+      0
+    ],
+    [
+      "424",
+      "LTS - VC/PE - UK - Sales Leaders",
+      5455,
+      0
+    ],
+    [
+      "422",
+      "LTS - VC/PE - US - Sales Leaders",
+      8033,
+      0
+    ],
+    [
+      "328",
+      "LTS - SaaS - US - Sales Leaders",
+      9734,
+      0
+    ]
+  ],
+  "status_breakdown": {
+    "draft": {
+      "count": 15,
+      "sent": 0,
+      "interested": 0,
+      "replied": 0
+    },
+    "active": {
+      "count": 10,
+      "sent": 173683,
+      "interested": 82,
+      "replied": 2495
+    },
+    "launching": {
+      "count": 1,
+      "sent": 62526,
+      "interested": 19,
+      "replied": 755
+    },
+    "paused": {
+      "count": 9,
+      "sent": 120205,
+      "interested": 22,
+      "replied": 2297
+    },
+    "queued": {
+      "count": 3,
+      "sent": 30672,
+      "interested": 4,
+      "replied": 328
+    },
+    "completed": {
+      "count": 70,
+      "sent": 626085,
+      "interested": 344,
+      "replied": 15621
+    },
+    "archived": {
+      "count": 15,
+      "sent": 62526,
+      "interested": 60,
+      "replied": 2003
+    }
+  }
+}

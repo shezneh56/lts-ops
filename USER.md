@@ -5,6 +5,10 @@
 - **Timezone:** CET (Spain)
 - **Numbers:** +16462940798 (US), +447716953711 (UK)
 
+## IMPORTANT
+- **Timezone is CET (UTC+1)** - DO NOT confuse with UTC. When Liam says a time, it's CET.
+- Current time offset: CET = UTC + 1 hour
+
 ## Business
 
 - **Company:** Leads That Show

@@ -1,0 +1,892 @@
+[
+  {
+    "workspace": "C2 Experience",
+    "campaign_id": 735,
+    "campaign_name": "C2 - Alamo Colleges Lookalikes",
+    "status": "paused",
+    "sent": 311,
+    "replies": 9,
+    "interested": 0,
+    "bounced": 2
+  },
+  {
+    "workspace": "C2 Experience",
+    "campaign_id": 436,
+    "campaign_name": "C2 Group - Marketing - VPs",
+    "status": "paused",
+    "sent": 198,
+    "replies": 6,
+    "interested": 0,
+    "bounced": 13
+  },
+  {
+    "workspace": "C2 Experience",
+    "campaign_id": 434,
+    "campaign_name": "C2 Group - Tech - Non C-Suite",
+    "status": "paused",
+    "sent": 2190,
+    "replies": 39,
+    "interested": 0,
+    "bounced": 296
+  },
+  {
+    "workspace": "C2 Experience",
+    "campaign_id": 433,
+    "campaign_name": "C2 Group - Tech - VPs",
+    "status": "paused",
+    "sent": 168,
+    "replies": 4,
+    "interested": 0,
+    "bounced": 9
+  },
+  {
+    "workspace": "C2 Experience",
+    "campaign_id": 432,
+    "campaign_name": "C2 Group - Tech - C-Suite",
+    "status": "paused",
+    "sent": 728,
+    "replies": 12,
+    "interested": 0,
+    "bounced": 13
+  },
+  {
+    "workspace": "C2 Experience",
+    "campaign_id": 416,
+    "campaign_name": "CMO - Optimizely - USA - C-SUITE",
+    "status": "paused",
+    "sent": 112,
+    "replies": 1,
+    "interested": 0,
+    "bounced": 3
+  },
+  {
+    "workspace": "C2 Experience",
+    "campaign_id": 415,
+    "campaign_name": "CIO/CTO - Optimizely - USA - C-SUITE",
+    "status": "paused",
+    "sent": 250,
+    "replies": 2,
+    "interested": 0,
+    "bounced": 2
+  },
+  {
+    "workspace": "C2 Experience",
+    "campaign_id": 246,
+    "campaign_name": "CIO/CTO - Sitecore - USA - Other",
+    "status": "paused",
+    "sent": 72,
+    "replies": 1,
+    "interested": 0,
+    "bounced": 2
+  },
+  {
+    "workspace": "C2 Experience",
+    "campaign_id": 245,
+    "campaign_name": "CIO/CTO - Sitecore - USA - MS",
+    "status": "paused",
+    "sent": 44,
+    "replies": 0,
+    "interested": 0,
+    "bounced": 2
+  },
+  {
+    "workspace": "CGS Team",
+    "campaign_id": 303,
+    "campaign_name": "CyberSecurity - EMEA - 5-200 - Google",
+    "status": "active",
+    "sent": 7913,
+    "replies": 115,
+    "interested": 8,
+    "bounced": 34
+  },
+  {
+    "workspace": "CGS Team",
+    "campaign_id": 300,
+    "campaign_name": "CyberSecurity - US - 5-100 - Google -> Google",
+    "status": "completed",
+    "sent": 13110,
+    "replies": 117,
+    "interested": 4,
+    "bounced": 69
+  },
+  {
+    "workspace": "CGS Team",
+    "campaign_id": 667,
+    "campaign_name": "MVP Campaigns - USA - SaaS - 3-10",
+    "status": "completed",
+    "sent": 12214,
+    "replies": 54,
+    "interested": 1,
+    "bounced": 79
+  },
+  {
+    "workspace": "CGS Team",
+    "campaign_id": 316,
+    "campaign_name": "MVP Campaigns - USA - SaaS - 1-2",
+    "status": "completed",
+    "sent": 2423,
+    "replies": 13,
+    "interested": 1,
+    "bounced": 25
+  },
+  {
+    "workspace": "CGS Team",
+    "campaign_id": 258,
+    "campaign_name": "Real Estate - UK - 11-200 - CEO/COO - Other",
+    "status": "paused",
+    "sent": 1000,
+    "replies": 26,
+    "interested": 1,
+    "bounced": 41
+  },
+  {
+    "workspace": "CGS Team",
+    "campaign_id": 709,
+    "campaign_name": "Crunchbase MVP Campaigns - EU - SaaS - 3-10",
+    "status": "completed",
+    "sent": 4681,
+    "replies": 15,
+    "interested": 0,
+    "bounced": 69
+  },
+  {
+    "workspace": "CGS Team",
+    "campaign_id": 708,
+    "campaign_name": "Crunchbase MVP Campaigns - USA - SaaS - 11-50",
+    "status": "completed",
+    "sent": 697,
+    "replies": 9,
+    "interested": 0,
+    "bounced": 8
+  },
+  {
+    "workspace": "CGS Team",
+    "campaign_id": 707,
+    "campaign_name": "Crunchbase MVP Campaigns - USA - SaaS - 3-10",
+    "status": "completed",
+    "sent": 5072,
+    "replies": 32,
+    "interested": 0,
+    "bounced": 88
+  },
+  {
+    "workspace": "CGS Team",
+    "campaign_id": 706,
+    "campaign_name": "Crunchbase MVP Campaigns - USA - SaaS - 1-2",
+    "status": "completed",
+    "sent": 607,
+    "replies": 4,
+    "interested": 0,
+    "bounced": 17
+  },
+  {
+    "workspace": "CGS Team",
+    "campaign_id": 668,
+    "campaign_name": "MVP Campaigns - USA - SaaS - 11-50",
+    "status": "active",
+    "sent": 13360,
+    "replies": 77,
+    "interested": 0,
+    "bounced": 51
+  },
+  {
+    "workspace": "CGS Team",
+    "campaign_id": 305,
+    "campaign_name": "CyberSecurity - EMEA - 5-200 - Google -> Other",
+    "status": "completed",
+    "sent": 2422,
+    "replies": 44,
+    "interested": 0,
+    "bounced": 15
+  },
+  {
+    "workspace": "CGS Team",
+    "campaign_id": 304,
+    "campaign_name": "CyberSecurity - EMEA - 5-200 - MS",
+    "status": "completed",
+    "sent": 8861,
+    "replies": 11,
+    "interested": 0,
+    "bounced": 38
+  },
+  {
+    "workspace": "CGS Team",
+    "campaign_id": 302,
+    "campaign_name": "CyberSecurity - US - 5-100 - MS -> Other",
+    "status": "completed",
+    "sent": 3255,
+    "replies": 31,
+    "interested": 0,
+    "bounced": 18
+  },
+  {
+    "workspace": "CGS Team",
+    "campaign_id": 301,
+    "campaign_name": "CyberSecurity - US - 5-100 - MS -> MS",
+    "status": "completed",
+    "sent": 10087,
+    "replies": 8,
+    "interested": 0,
+    "bounced": 30
+  },
+  {
+    "workspace": "Gestell",
+    "campaign_id": 702,
+    "campaign_name": "GE V3 - Manufacturing",
+    "status": "active",
+    "sent": 4970,
+    "replies": 21,
+    "interested": 0,
+    "bounced": 152
+  },
+  {
+    "workspace": "Gestell",
+    "campaign_id": 701,
+    "campaign_name": "GE V3 - Retail",
+    "status": "active",
+    "sent": 1846,
+    "replies": 10,
+    "interested": 0,
+    "bounced": 8
+  },
+  {
+    "workspace": "Gestell",
+    "campaign_id": 700,
+    "campaign_name": "GE V3 - Insurance",
+    "status": "paused",
+    "sent": 6677,
+    "replies": 26,
+    "interested": 0,
+    "bounced": 403
+  },
+  {
+    "workspace": "Gestell",
+    "campaign_id": 699,
+    "campaign_name": "GE V3 - Banking",
+    "status": "active",
+    "sent": 5751,
+    "replies": 58,
+    "interested": 0,
+    "bounced": 35
+  },
+  {
+    "workspace": "Hygraph",
+    "campaign_id": 759,
+    "campaign_name": "HYG New ICP - Gaming - Executive",
+    "status": "active",
+    "sent": 15,
+    "replies": 0,
+    "interested": 0,
+    "bounced": 0
+  },
+  {
+    "workspace": "Hygraph",
+    "campaign_id": 758,
+    "campaign_name": "HYG New ICP - Gaming - Product",
+    "status": "active",
+    "sent": 14,
+    "replies": 1,
+    "interested": 0,
+    "bounced": 0
+  },
+  {
+    "workspace": "Hygraph",
+    "campaign_id": 757,
+    "campaign_name": "HYG New ICP - Gaming - Engineering",
+    "status": "active",
+    "sent": 21,
+    "replies": 1,
+    "interested": 0,
+    "bounced": 0
+  },
+  {
+    "workspace": "Hygraph",
+    "campaign_id": 753,
+    "campaign_name": "HYG New ICP - D2C Ecommerce - Executive",
+    "status": "active",
+    "sent": 513,
+    "replies": 4,
+    "interested": 0,
+    "bounced": 1
+  },
+  {
+    "workspace": "Hygraph",
+    "campaign_id": 752,
+    "campaign_name": "HYG New ICP - D2C Ecommerce - Product",
+    "status": "active",
+    "sent": 6,
+    "replies": 0,
+    "interested": 0,
+    "bounced": 0
+  },
+  {
+    "workspace": "Hygraph",
+    "campaign_id": 751,
+    "campaign_name": "HYG New ICP - D2C Ecommerce - Engineering",
+    "status": "active",
+    "sent": 418,
+    "replies": 1,
+    "interested": 0,
+    "bounced": 1
+  },
+  {
+    "workspace": "Jam Pot",
+    "campaign_id": 688,
+    "campaign_name": "JP V3 - SaaS (US)",
+    "status": "active",
+    "sent": 14193,
+    "replies": 160,
+    "interested": 4,
+    "bounced": 67
+  },
+  {
+    "workspace": "Jam Pot",
+    "campaign_id": 193,
+    "campaign_name": "IT Services - USA - 11-200 - CEO/COO",
+    "status": "paused",
+    "sent": 2590,
+    "replies": 24,
+    "interested": 0,
+    "bounced": 80
+  },
+  {
+    "workspace": "LawTech",
+    "campaign_id": 140,
+    "campaign_name": "USA - GC/Legal Ops - relaunch 1",
+    "status": "active",
+    "sent": 74834,
+    "replies": 845,
+    "interested": 9,
+    "bounced": 441
+  },
+  {
+    "workspace": "LawTech",
+    "campaign_id": 173,
+    "campaign_name": "EU - GC/Legal Ops - relaunch 1",
+    "status": "completed",
+    "sent": 14460,
+    "replies": 297,
+    "interested": 7,
+    "bounced": 156
+  },
+  {
+    "workspace": "LawTech",
+    "campaign_id": 161,
+    "campaign_name": "UK- GC/Legal Ops - relaunch 1",
+    "status": "active",
+    "sent": 8130,
+    "replies": 184,
+    "interested": 5,
+    "bounced": 83
+  },
+  {
+    "workspace": "LawTech",
+    "campaign_id": 206,
+    "campaign_name": "In-House Lawyers - EU - 200-5,000",
+    "status": "completed",
+    "sent": 8841,
+    "replies": 111,
+    "interested": 1,
+    "bounced": 444
+  },
+  {
+    "workspace": "LawTech",
+    "campaign_id": 205,
+    "campaign_name": "In-House Lawyers - USA - 200-5,000",
+    "status": "paused",
+    "sent": 9821,
+    "replies": 119,
+    "interested": 1,
+    "bounced": 550
+  },
+  {
+    "workspace": "LawTech",
+    "campaign_id": 102,
+    "campaign_name": "EU - GC/Legal Ops (catch all)",
+    "status": "completed",
+    "sent": 3132,
+    "replies": 104,
+    "interested": 1,
+    "bounced": 97
+  },
+  {
+    "workspace": "LawTech",
+    "campaign_id": 100,
+    "campaign_name": "UK - GC/Legal Ops (catch all)",
+    "status": "completed",
+    "sent": 1179,
+    "replies": 46,
+    "interested": 1,
+    "bounced": 35
+  },
+  {
+    "workspace": "LawTech",
+    "campaign_id": 214,
+    "campaign_name": "In-House Lawyers - USA - 200-5,000 *old leads",
+    "status": "paused",
+    "sent": 2987,
+    "replies": 83,
+    "interested": 0,
+    "bounced": 42
+  },
+  {
+    "workspace": "LawTech",
+    "campaign_id": 101,
+    "campaign_name": "GCC - GC/Legal Ops (catch all)",
+    "status": "completed",
+    "sent": 165,
+    "replies": 3,
+    "interested": 0,
+    "bounced": 15
+  },
+  {
+    "workspace": "Leads That Show",
+    "campaign_id": 717,
+    "campaign_name": "LTS-PROF-SALES V5",
+    "status": "active",
+    "sent": 64821,
+    "replies": 708,
+    "interested": 35,
+    "bounced": 784
+  },
+  {
+    "workspace": "Leads That Show",
+    "campaign_id": 421,
+    "campaign_name": "Tech B2B - CRO - US - old",
+    "status": "active",
+    "sent": 42590,
+    "replies": 945,
+    "interested": 34,
+    "bounced": 536
+  },
+  {
+    "workspace": "Leads That Show",
+    "campaign_id": 711,
+    "campaign_name": "LTS-SAAS-SALES V5",
+    "status": "active",
+    "sent": 62526,
+    "replies": 755,
+    "interested": 19,
+    "bounced": 553
+  },
+  {
+    "workspace": "Leads That Show",
+    "campaign_id": 712,
+    "campaign_name": "LTS-FIN-SALES V5",
+    "status": "active",
+    "sent": 33425,
+    "replies": 356,
+    "interested": 13,
+    "bounced": 328
+  },
+  {
+    "workspace": "Leads That Show",
+    "campaign_id": 419,
+    "campaign_name": "Prof Services - CRO - US - old",
+    "status": "completed",
+    "sent": 26299,
+    "replies": 1118,
+    "interested": 12,
+    "bounced": 359
+  },
+  {
+    "workspace": "Leads That Show",
+    "campaign_id": 420,
+    "campaign_name": "VC/PE - CRO - US - old",
+    "status": "completed",
+    "sent": 12927,
+    "replies": 247,
+    "interested": 6,
+    "bounced": 100
+  },
+  {
+    "workspace": "Leads That Show",
+    "campaign_id": 703,
+    "campaign_name": "Founder - Various - US - old",
+    "status": "paused",
+    "sent": 34105,
+    "replies": 599,
+    "interested": 5,
+    "bounced": 431
+  },
+  {
+    "workspace": "Leads That Show",
+    "campaign_id": 715,
+    "campaign_name": "LTS-FIN-MKT V5",
+    "status": "active",
+    "sent": 5603,
+    "replies": 62,
+    "interested": 0,
+    "bounced": 134
+  },
+  {
+    "workspace": "Leads That Show",
+    "campaign_id": 714,
+    "campaign_name": "LTS-SAAS-MKT V5",
+    "status": "active",
+    "sent": 1471,
+    "replies": 20,
+    "interested": 0,
+    "bounced": 42
+  },
+  {
+    "workspace": "Leads That Show",
+    "campaign_id": 713,
+    "campaign_name": "LTS-CYBER-SALES V5",
+    "status": "active",
+    "sent": 2539,
+    "replies": 23,
+    "interested": 0,
+    "bounced": 61
+  },
+  {
+    "workspace": "Leads That Show",
+    "campaign_id": 425,
+    "campaign_name": "LTS - VC/PE - UK - CEO/Founder",
+    "status": "active",
+    "sent": 12,
+    "replies": 0,
+    "interested": 0,
+    "bounced": 0
+  },
+  {
+    "workspace": "Leads That Show",
+    "campaign_id": 424,
+    "campaign_name": "LTS - VC/PE - UK - Sales Leaders",
+    "status": "active",
+    "sent": 5455,
+    "replies": 157,
+    "interested": 0,
+    "bounced": 71
+  },
+  {
+    "workspace": "Leads That Show",
+    "campaign_id": 422,
+    "campaign_name": "LTS - VC/PE - US - Sales Leaders",
+    "status": "active",
+    "sent": 8033,
+    "replies": 93,
+    "interested": 0,
+    "bounced": 118
+  },
+  {
+    "workspace": "Leads That Show",
+    "campaign_id": 423,
+    "campaign_name": "LTS - VC/PE - US - CEO/Founder",
+    "status": "active",
+    "sent": 3577,
+    "replies": 37,
+    "interested": 0,
+    "bounced": 48
+  },
+  {
+    "workspace": "LegalSoft",
+    "campaign_id": 121,
+    "campaign_name": "Mid-Sized - Law Practice (6-50) - enrichment",
+    "status": "paused",
+    "sent": 61129,
+    "replies": 748,
+    "interested": 8,
+    "bounced": 327
+  },
+  {
+    "workspace": "LegalSoft",
+    "campaign_id": 215,
+    "campaign_name": "Lawyers - 6-50 - USA - Apollo",
+    "status": "completed",
+    "sent": 17368,
+    "replies": 233,
+    "interested": 3,
+    "bounced": 49
+  },
+  {
+    "workspace": "LegalSoft",
+    "campaign_id": 312,
+    "campaign_name": "Mid-Sized - Law Practice (6-50) - enrichment - Google",
+    "status": "active",
+    "sent": 6892,
+    "replies": 198,
+    "interested": 2,
+    "bounced": 5
+  },
+  {
+    "workspace": "LegalSoft",
+    "campaign_id": 181,
+    "campaign_name": "Mid-Sized - Law Practice (6-50) - no enrich v2",
+    "status": "completed",
+    "sent": 4716,
+    "replies": 79,
+    "interested": 2,
+    "bounced": 44
+  },
+  {
+    "workspace": "LegalSoft",
+    "campaign_id": 314,
+    "campaign_name": "Mid-Sized - Law Practice (6-50) - enrichment - Other",
+    "status": "active",
+    "sent": 11715,
+    "replies": 228,
+    "interested": 1,
+    "bounced": 107
+  },
+  {
+    "workspace": "LegalSoft",
+    "campaign_id": 288,
+    "campaign_name": "a-leads - Lawyers - 1-10 - USA - Enriched",
+    "status": "paused",
+    "sent": 1975,
+    "replies": 39,
+    "interested": 1,
+    "bounced": 37
+  },
+  {
+    "workspace": "LegalSoft",
+    "campaign_id": 313,
+    "campaign_name": "Mid-Sized - Law Practice (6-50) - enrichment - MS",
+    "status": "active",
+    "sent": 8737,
+    "replies": 16,
+    "interested": 0,
+    "bounced": 8
+  },
+  {
+    "workspace": "LegalSoft",
+    "campaign_id": 289,
+    "campaign_name": "a-leads - Lawyers - 11-50 - USA - Enriched",
+    "status": "paused",
+    "sent": 2030,
+    "replies": 28,
+    "interested": 0,
+    "bounced": 18
+  },
+  {
+    "workspace": "LegalSoft",
+    "campaign_id": 180,
+    "campaign_name": "Solo - Law Practice (1-5) - no enrich v2",
+    "status": "completed",
+    "sent": 2156,
+    "replies": 37,
+    "interested": 0,
+    "bounced": 7
+  },
+  {
+    "workspace": "LegalSoft",
+    "campaign_id": 120,
+    "campaign_name": "Solo - Law Practice (1-5) - no enrich",
+    "status": "paused",
+    "sent": 553,
+    "replies": 19,
+    "interested": 0,
+    "bounced": 4
+  },
+  {
+    "workspace": "Med Virtual",
+    "campaign_id": 725,
+    "campaign_name": "MV - Chiropractic - US - V2",
+    "status": "paused",
+    "sent": 1797,
+    "replies": 50,
+    "interested": 0,
+    "bounced": 9
+  },
+  {
+    "workspace": "Med Virtual",
+    "campaign_id": 723,
+    "campaign_name": "MV - Private Practices - US - V2",
+    "status": "paused",
+    "sent": 2,
+    "replies": 0,
+    "interested": 0,
+    "bounced": 0
+  },
+  {
+    "workspace": "Paralect",
+    "campaign_id": 516,
+    "campaign_name": "USA Paralect CO - Corporates",
+    "status": "active",
+    "sent": 14323,
+    "replies": 72,
+    "interested": 2,
+    "bounced": 63
+  },
+  {
+    "workspace": "Paralect",
+    "campaign_id": 515,
+    "campaign_name": "USA Paralect MS - Mature Startups",
+    "status": "active",
+    "sent": 4254,
+    "replies": 29,
+    "interested": 2,
+    "bounced": 29
+  },
+  {
+    "workspace": "Paralect",
+    "campaign_id": 216,
+    "campaign_name": "SaaS - 3-20 - USA - C-Suite - Crunchbase",
+    "status": "paused",
+    "sent": 3000,
+    "replies": 30,
+    "interested": 2,
+    "bounced": 17
+  },
+  {
+    "workspace": "Paralect",
+    "campaign_id": 202,
+    "campaign_name": "SaaS - 20+ - EU - C-Suite",
+    "status": "paused",
+    "sent": 5836,
+    "replies": 83,
+    "interested": 2,
+    "bounced": 221
+  },
+  {
+    "workspace": "Paralect",
+    "campaign_id": 200,
+    "campaign_name": "SaaS - 1-2 - EU - C-Suite",
+    "status": "completed",
+    "sent": 2191,
+    "replies": 48,
+    "interested": 2,
+    "bounced": 107
+  },
+  {
+    "workspace": "Paralect",
+    "campaign_id": 514,
+    "campaign_name": "USA Paralect ES - Early Stage",
+    "status": "active",
+    "sent": 2418,
+    "replies": 10,
+    "interested": 1,
+    "bounced": 32
+  },
+  {
+    "workspace": "Paralect",
+    "campaign_id": 309,
+    "campaign_name": "Crunchbase USA - Founder/ C-Suite - 3-20",
+    "status": "active",
+    "sent": 10367,
+    "replies": 38,
+    "interested": 1,
+    "bounced": 31
+  },
+  {
+    "workspace": "Paralect",
+    "campaign_id": 201,
+    "campaign_name": "SaaS - 3-20 - EU - C-Suite",
+    "status": "paused",
+    "sent": 5251,
+    "replies": 70,
+    "interested": 0,
+    "bounced": 213
+  },
+  {
+    "workspace": "Paralect",
+    "campaign_id": 199,
+    "campaign_name": "SaaS - 20+ - USA - C-Suite",
+    "status": "paused",
+    "sent": 3552,
+    "replies": 20,
+    "interested": 0,
+    "bounced": 121
+  },
+  {
+    "workspace": "Paralect",
+    "campaign_id": 198,
+    "campaign_name": "SaaS - 3-20 - USA - C-Suite",
+    "status": "paused",
+    "sent": 379,
+    "replies": 6,
+    "interested": 0,
+    "bounced": 10
+  },
+  {
+    "workspace": "Wow 24-7",
+    "campaign_id": 176,
+    "campaign_name": "New CX Campaign - EU - SaaS - 50-1,000",
+    "status": "paused",
+    "sent": 36056,
+    "replies": 387,
+    "interested": 4,
+    "bounced": 109
+  },
+  {
+    "workspace": "Wow 24-7",
+    "campaign_id": 183,
+    "campaign_name": "New CX Campaign - EU - SaaS - 201-5000",
+    "status": "completed",
+    "sent": 1421,
+    "replies": 25,
+    "interested": 3,
+    "bounced": 14
+  },
+  {
+    "workspace": "Wow 24-7",
+    "campaign_id": 152,
+    "campaign_name": "New CX Campaign - US - SaaS - unenriched >50",
+    "status": "completed",
+    "sent": 17214,
+    "replies": 304,
+    "interested": 3,
+    "bounced": 55
+  },
+  {
+    "workspace": "Wow 24-7",
+    "campaign_id": 118,
+    "campaign_name": "CX Campaign - US - SaaS - enriched",
+    "status": "archived",
+    "sent": 5996,
+    "replies": 301,
+    "interested": 3,
+    "bounced": 40
+  },
+  {
+    "workspace": "Wow 24-7",
+    "campaign_id": 670,
+    "campaign_name": "Wow24-7 - Client Copy - CX - 500-5000 - EU",
+    "status": "active",
+    "sent": 9338,
+    "replies": 175,
+    "interested": 1,
+    "bounced": 43
+  },
+  {
+    "workspace": "Wow 24-7",
+    "campaign_id": 132,
+    "campaign_name": "CX Campaign - US - SaaS - unenriched >50",
+    "status": "completed",
+    "sent": 15319,
+    "replies": 185,
+    "interested": 1,
+    "bounced": 124
+  },
+  {
+    "workspace": "Wow 24-7",
+    "campaign_id": 131,
+    "campaign_name": "CX Campaign - US - SaaS - enriched >50",
+    "status": "completed",
+    "sent": 6424,
+    "replies": 118,
+    "interested": 1,
+    "bounced": 41
+  },
+  {
+    "workspace": "Wow 24-7",
+    "campaign_id": 669,
+    "campaign_name": "Wow24-7 - Client Copy - CX - 500-5000 - USA",
+    "status": "active",
+    "sent": 6548,
+    "replies": 102,
+    "interested": 0,
+    "bounced": 35
+  },
+  {
+    "workspace": "Wow 24-7",
+    "campaign_id": 182,
+    "campaign_name": "New CX Campaign - US - SaaS - 201-5000",
+    "status": "paused",
+    "sent": 4290,
+    "replies": 29,
+    "interested": 0,
+    "bounced": 49
+  }
+]

@@ -764,7 +764,367 @@
         "morning": false
       },
       "addedAt": "2026-01-27T16:00:14.895Z"
+    },
+    "14c04d7d-d635-4f81-952d-b958251d56dd": {
+      "id": "14c04d7d-d635-4f81-952d-b958251d56dd",
+      "name": "Nate Hepner",
+      "email": "nate@hepnerconsulting.com",
+      "startTime": "2026-01-28T14:15:00.000000Z",
+      "timezone": "America/New_York",
+      "createdAt": "2026-01-27T18:25:43.734296Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-27T19:00:14.741Z"
+    },
+    "082e8b51-a8cb-4029-b457-c3e49bba5a6c": {
+      "id": "082e8b51-a8cb-4029-b457-c3e49bba5a6c",
+      "name": "Dylan Whalen",
+      "email": "dylan.whalen@rolespilot.com",
+      "startTime": "2026-01-28T15:00:00.000000Z",
+      "timezone": "America/New_York",
+      "createdAt": "2026-01-27T21:11:18.269188Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-27T22:00:16.683Z"
+    },
+    "236fedf9-9930-4458-bc46-262ef7de3979": {
+      "id": "236fedf9-9930-4458-bc46-262ef7de3979",
+      "name": "Conor Carignan",
+      "email": "ccarignan@solutionsreview.com",
+      "startTime": "2026-01-28T16:00:00.000000Z",
+      "timezone": "America/New_York",
+      "createdAt": "2026-01-27T21:22:34.435889Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-27T22:00:16.683Z"
+    },
+    "defa939e-befd-474e-bc74-9185aa940ca5": {
+      "id": "defa939e-befd-474e-bc74-9185aa940ca5",
+      "name": "Sophia Yang",
+      "email": "sophia.yang@forestown.com",
+      "startTime": "2026-01-30T18:15:00.000000Z",
+      "timezone": "America/New_York",
+      "createdAt": "2026-01-27T22:26:22.874262Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-27T23:00:16.459Z"
+    },
+    "8db077d1-0ed3-4286-99bb-5b8a7b073f1e": {
+      "id": "8db077d1-0ed3-4286-99bb-5b8a7b073f1e",
+      "name": "Arpan Bhardwaj",
+      "email": "info@arbhinfotech.com",
+      "startTime": "2026-01-30T12:00:00.000000Z",
+      "timezone": "America/New_York",
+      "createdAt": "2026-01-28T14:23:34.750596Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-28T15:00:16.087Z"
+    },
+    "566c8f84-8d0d-4038-b59e-d37a9246c47c": {
+      "id": "566c8f84-8d0d-4038-b59e-d37a9246c47c",
+      "name": "Pedro Adams",
+      "email": "pedro.adams@actom.co.za",
+      "startTime": "2026-02-02T12:00:00.000000Z",
+      "timezone": "America/New_York",
+      "createdAt": "2026-01-28T14:11:01.040073Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-28T15:00:16.087Z"
+    },
+    "819daa70-49b4-48f8-9814-54ba4c4ff5bd": {
+      "id": "819daa70-49b4-48f8-9814-54ba4c4ff5bd",
+      "name": "Tucker McCready",
+      "email": "tmccready@winops.com",
+      "startTime": "2026-01-29T19:00:00.000000Z",
+      "timezone": "America/New_York",
+      "createdAt": "2026-01-28T16:51:17.106266Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-28T17:00:17.700Z"
+    },
+    "d71cc9f5-ad7e-429a-a7b1-4d0b5ebe7962": {
+      "id": "d71cc9f5-ad7e-429a-a7b1-4d0b5ebe7962",
+      "name": "George Thompson",
+      "email": "georgethompson@chemply.com",
+      "startTime": "2026-02-02T15:00:00.000000Z",
+      "timezone": "America/New_York",
+      "createdAt": "2026-01-28T16:10:30.366899Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-28T17:00:17.700Z"
+    },
+    "f8dded03-65a0-41a9-b067-f4ff0ae86cb5": {
+      "id": "f8dded03-65a0-41a9-b067-f4ff0ae86cb5",
+      "name": "Ria Richardson",
+      "email": "ria@etterramli.com",
+      "startTime": "2026-02-02T17:00:00.000000Z",
+      "timezone": "America/Los_Angeles",
+      "createdAt": "2026-01-28T16:54:31.418156Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-28T17:00:17.700Z"
+    },
+    "a41f1933-d79f-444f-bf2b-5f341db9c801": {
+      "id": "a41f1933-d79f-444f-bf2b-5f341db9c801",
+      "name": "Ginger Whalen",
+      "email": "ginger@sputnikmoment.com",
+      "startTime": "2026-02-02T18:00:00.000000Z",
+      "timezone": "America/Denver",
+      "createdAt": "2026-01-28T16:24:03.875214Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-28T17:00:17.700Z"
+    },
+    "639e6c75-d554-4bae-891e-ba51b44af59a": {
+      "id": "639e6c75-d554-4bae-891e-ba51b44af59a",
+      "name": "Conor Carignan",
+      "email": "ccarignan@solutionsreview.com",
+      "startTime": "2026-02-03T14:00:00.000000Z",
+      "timezone": "America/New_York",
+      "createdAt": "2026-01-28T16:37:21.285550Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-28T17:00:17.700Z"
+    },
+    "5936c4a7-5fd5-4565-8f17-2be8301efc7e": {
+      "id": "5936c4a7-5fd5-4565-8f17-2be8301efc7e",
+      "name": "Milind Wankhede",
+      "email": "milind@digirestro.in",
+      "startTime": "2026-02-03T17:00:00.000000Z",
+      "timezone": "America/New_York",
+      "createdAt": "2026-01-28T18:29:49.900475Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-28T19:00:15.419Z"
+    },
+    "acc64f0d-a0e0-4168-9279-185ef26e85ea": {
+      "id": "acc64f0d-a0e0-4168-9279-185ef26e85ea",
+      "name": "George Thompson",
+      "email": "georgethompson@chemply.com",
+      "startTime": "2026-02-04T16:30:00.000000Z",
+      "timezone": "America/New_York",
+      "createdAt": "2026-01-28T19:12:34.404543Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-28T20:01:07.206Z"
+    },
+    "1096b095-18ff-4433-9af6-759813c4aafb": {
+      "id": "1096b095-18ff-4433-9af6-759813c4aafb",
+      "name": "Tom Rogers",
+      "email": "tom@zencentiv.com",
+      "startTime": "2026-02-03T16:00:00.000000Z",
+      "timezone": "America/Denver",
+      "createdAt": "2026-01-28T20:41:58.536986Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-28T21:00:16.739Z"
+    },
+    "f31d2492-da7e-4fad-b234-50951302056c": {
+      "id": "f31d2492-da7e-4fad-b234-50951302056c",
+      "name": "Dylan Whalen",
+      "email": "dylan.whalen@rolespilot.com",
+      "startTime": "2026-02-04T15:00:00.000000Z",
+      "timezone": "Europe/Berlin",
+      "createdAt": "2026-01-28T20:05:01.726305Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-28T21:00:16.739Z"
+    },
+    "aee16735-7e4c-4ec0-a59b-f93e52d2836f": {
+      "id": "aee16735-7e4c-4ec0-a59b-f93e52d2836f",
+      "name": "Dave Fox",
+      "email": "dfox@focusgts.com",
+      "startTime": "2026-01-29T16:00:00.000000Z",
+      "timezone": "America/New_York",
+      "createdAt": "2026-01-29T04:19:08.091195Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-29T05:00:17.685Z"
+    },
+    "387c0982-2d74-48b9-9f24-1d8affb7e251": {
+      "id": "387c0982-2d74-48b9-9f24-1d8affb7e251",
+      "name": "Barbara Shannon",
+      "email": "barbara.shannon@coworxstaffing.com",
+      "startTime": "2026-02-12T14:00:00.000000Z",
+      "timezone": "America/New_York",
+      "createdAt": "2026-01-27T18:41:42.107220Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-29T14:00:19.349Z"
+    },
+    "4c88dd0b-f7be-44b0-ace5-c60c8f71c3aa": {
+      "id": "4c88dd0b-f7be-44b0-ace5-c60c8f71c3aa",
+      "name": "Joe Hanson",
+      "email": "j.hanson@bonita.k12.ca.us",
+      "startTime": "2026-02-02T15:30:00.000000Z",
+      "timezone": "America/Los_Angeles",
+      "createdAt": "2026-01-29T16:40:39.433826Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-29T17:00:15.506Z"
+    },
+    "43e207c9-fa77-4249-8a0b-348d590d616f": {
+      "id": "43e207c9-fa77-4249-8a0b-348d590d616f",
+      "name": "Matt Johnson",
+      "email": "matt@optimizecec.com",
+      "startTime": "2026-02-02T14:45:00.000000Z",
+      "timezone": "America/New_York",
+      "createdAt": "2026-01-29T17:57:01.084061Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-29T18:00:12.767Z"
+    },
+    "848dbcdb-550e-4266-8656-57fc5642ffb0": {
+      "id": "848dbcdb-550e-4266-8656-57fc5642ffb0",
+      "name": "Chan Lee",
+      "email": "chan.lee@asuene.com",
+      "startTime": "2026-02-02T16:30:00.000000Z",
+      "timezone": "America/Los_Angeles",
+      "createdAt": "2026-01-29T17:26:12.371786Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-29T18:00:12.767Z"
+    },
+    "c2cb9c54-ba39-4fe6-a118-291c353464dd": {
+      "id": "c2cb9c54-ba39-4fe6-a118-291c353464dd",
+      "name": "Jenny Kim",
+      "email": "jenny@cooper.ai",
+      "startTime": "2026-02-03T17:45:00.000000Z",
+      "timezone": "America/Los_Angeles",
+      "createdAt": "2026-01-29T19:09:35.115441Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-29T20:00:16.634Z"
+    },
+    "b27da51c-779f-493d-a9a5-c4482bbabd19": {
+      "id": "b27da51c-779f-493d-a9a5-c4482bbabd19",
+      "name": "Graham Clark",
+      "email": "gvclark@mcorp.cx",
+      "startTime": "2026-02-09T15:00:00.000000Z",
+      "timezone": "America/Chicago",
+      "createdAt": "2026-01-29T19:36:38.128478Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-29T20:00:16.634Z"
+    },
+    "60a169b7-72a5-49df-a5cd-1a23a0790e44": {
+      "id": "60a169b7-72a5-49df-a5cd-1a23a0790e44",
+      "name": "Ginger Whalen",
+      "email": "ginger@sputnikmoment.com",
+      "startTime": "2026-02-02T18:00:00.000000Z",
+      "timezone": "America/Denver",
+      "createdAt": "2026-01-29T21:52:18.060262Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-29T22:00:13.410Z"
+    },
+    "0c96b4f6-51b6-4d67-8c39-e59576696ac5": {
+      "id": "0c96b4f6-51b6-4d67-8c39-e59576696ac5",
+      "name": "Jessica Gulish",
+      "email": "jessica.g@sprucehealth.com",
+      "startTime": "2026-02-05T18:00:00.000000Z",
+      "timezone": "America/Los_Angeles",
+      "createdAt": "2026-01-29T22:28:10.289666Z",
+      "voiceNoteSent": false,
+      "remindersSent": {
+        "immediate": true,
+        "evening": false,
+        "morning": false
+      },
+      "addedAt": "2026-01-29T23:00:14.077Z"
     }
   },
-  "lastCheck": "2026-01-27T16:14:58.808Z"
+  "lastCheck": "2026-01-30T08:00:15.951Z"
 }
